@@ -1,0 +1,342 @@
+[
+    {
+        "name": "中宗孝宣皇帝",
+        "occurrences": 1,
+        "position": "皇帝"
+    },
+    {
+        "name": "颍川太守黄霸",
+        "occurrences": 5,
+        "position": "颍川太守"
+    },
+    {
+        "name": "匈奴单于遣弟呼留若王胜之",
+        "occurrences": 1,
+        "position": "匈奴单于弟"
+    },
+    {
+        "name": "河南太守严延年",
+        "occurrences": 4,
+        "position": "河南太守"
+    },
+    {
+        "name": "府丞义",
+        "occurrences": 1,
+        "position": "府丞"
+    },
+    {
+        "name": "匈奴握衍朐鞮单于",
+        "occurrences": 3,
+        "position": "匈奴单于"
+    },
+    {
+        "name": "姑夕王",
+        "occurrences": 1,
+        "position": "匈奴东边姑夕王"
+    },
+    {
+        "name": "乌桓",
+        "occurrences": 1,
+        "position": "乌桓"
+    },
+    {
+        "name": "稽侯狦为呼韩邪单于",
+        "occurrences": 1,
+        "position": "呼韩邪单于"
+    },
+    {
+        "name": "左贤王",
+        "occurrences": 1,
+        "position": "匈奴左贤王"
+    },
+    {
+        "name": "都隆奇",
+        "occurrences": 2,
+        "position": "匈奴左大且渠都隆奇"
+    },
+    {
+        "name": "屠耆单于",
+        "occurrences": 3,
+        "position": "屠耆单于"
+    },
+    {
+        "name": "呼揭单于",
+        "occurrences": 1,
+        "position": "呼揭单于"
+    },
+    {
+        "name": "车犁单于",
+        "occurrences": 1,
+        "position": "车犁单于"
+    },
+    {
+        "name": "乌藉都尉",
+        "occurrences": 1,
+        "position": "乌藉都尉"
+    },
+    {
+        "name": "皇太子",
+        "occurrences": 1,
+        "position": "皇太子"
+    },
+    {
+        "name": "韩增",
+        "occurrences": 1,
+        "position": "车骑将军"
+    },
+    {
+        "name": "许延寿",
+        "occurrences": 2,
+        "position": "大司马、车骑大将军"
+    },
+    {
+        "name": "丞相丙吉",
+        "occurrences": 1,
+        "position": "丞相"
+    },
+    {
+        "name": "萧望之",
+        "occurrences": 1,
+        "position": "御史大夫"
+    },
+    {
+        "name": "太仆戴长乐",
+        "occurrences": 1,
+        "position": "太仆"
+    },
+    {
+        "name": "杨恽",
+        "occurrences": 5,
+        "position": "光禄勋平通侯"
+    },
+    {
+        "name": "杨谭",
+        "occurrences": 1,
+        "position": "安平侯"
+    },
+    {
+        "name": "匈奴闰振单于",
+        "occurrences": 1,
+        "position": "闰振单于"
+    },
+    {
+        "name": "呼韩邪单于兄左贤王呼屠吾斯",
+        "occurrences": 1,
+        "position": "左贤王"
+    },
+    {
+        "name": "郅支骨都侯单于",
+        "occurrences": 1,
+        "position": "郅支骨都侯单于"
+    },
+    {
+        "name": "光禄勋平通侯杨恽",
+        "occurrences": 1,
+        "position": "光禄勋平通侯"
+    },
+    {
+        "name": "西河太守杜延年",
+        "occurrences": 1,
+        "position": "西河太守"
+    },
+    {
+        "name": "广陵厉王胥",
+        "occurrences": 1,
+        "position": "广陵厉王"
+    },
+    {
+        "name": "巫李女须",
+        "occurrences": 1,
+        "position": "巫"
+    },
+    {
+        "name": "匈奴呼韩邪单于",
+        "occurrences": 1,
+        "position": "匈奴呼韩邪单于"
+    },
+    {
+        "name": "匈奴郅支单于",
+        "occurrences": 1,
+        "position": "匈奴郅支单于"
+    },
+    {
+        "name": "大司农中丞耿寿昌",
+        "occurrences": 1,
+        "position": "大司农中丞"
+    },
+    {
+        "name": "乌孙狂王",
+        "occurrences": 1,
+        "position": "乌孙狂王"
+    },
+    {
+        "name": "楚主解忧",
+        "occurrences": 1,
+        "position": "楚主"
+    },
+    {
+        "name": "汉使卫司马魏和意",
+        "occurrences": 1,
+        "position": "汉使卫司马"
+    },
+    {
+        "name": "副侯任昌",
+        "occurrences": 1,
+        "position": "副侯"
+    },
+    {
+        "name": "乌孙大昆弥",
+        "occurrences": 1,
+        "position": "乌孙大昆弥"
+    },
+    {
+        "name": "乌孙小昆弥",
+        "occurrences": 1,
+        "position": "乌孙小昆弥"
+    },
+    {
+        "name": "中郎将张遵",
+        "occurrences": 1,
+        "position": "中郎将"
+    },
+    {
+        "name": "楚主侍者冯嫽",
+        "occurrences": 1,
+        "position": "楚主侍者"
+    },
+    {
+        "name": "乌孙右大将",
+        "occurrences": 1,
+        "position": "乌孙右大将"
+    },
+    {
+        "name": "都护郑吉",
+        "occurrences": 1,
+        "position": "都护"
+    },
+    {
+        "name": "皇太子",
+        "occurrences": 1,
+        "position": "皇太子"
+    },
+    {
+        "name": "司马良娣",
+        "occurrences": 1,
+        "position": "司马"
+    },
+    {
+        "name": "元城王政君",
+        "occurrences": 1,
+        "position": "元城王政君"
+    },
+    {
+        "name": "广川王海阳",
+        "occurrences": 1,
+        "position": "广川王"
+    },
+    {
+        "name": "护军都尉张禄",
+        "occurrences": 1,
+        "position": "护军都尉"
+    },
+    {
+        "name": "西河太守杜延年",
+        "occurrences": 1,
+        "position": "西河太守"
+    },
+    {
+        "name": "廷尉于定国",
+        "occurrences": 2,
+        "position": "廷尉"
+    },
+    {
+        "name": "太仆沛郡陈万年",
+        "occurrences": 1,
+        "position": "太仆"
+    },
+    {
+        "name": "淮阳宪王",
+        "occurrences": 1,
+        "position": "淮阳宪王"
+    },
+    {
+        "name": "匈奴呼韩邪单于",
+        "occurrences": 1,
+        "position": "匈奴呼韩邪单于"
+    },
+    {
+        "name": "车骑都尉韩昌",
+        "occurrences": 1,
+        "position": "车骑都尉"
+    },
+    {
+        "name": "高昌侯董忠",
+        "occurrences": 1,
+        "position": "高昌侯"
+    },
+    {
+        "name": "骑都尉韩昌",
+        "occurrences": 1,
+        "position": "骑都尉"
+    },
+    {
+        "name": "乌孙大昆弥元贵靡",
+        "occurrences": 1,
+        "position": "乌孙大昆弥"
+    },
+    {
+        "name": "乌孙小昆弥乌就屠",
+        "occurrences": 1,
+        "position": "乌孙小昆弥"
+    },
+    {
+        "name": "匈奴郅支单于",
+        "occurrences": 1,
+        "position": "匈奴郅支单于"
+    },
+    {
+        "name": "乌孙大昆弥星靡",
+        "occurrences": 1,
+        "position": "乌孙大昆弥"
+    },
+    {
+        "name": "乌孙小昆弥雌栗靡",
+        "occurrences": 1,
+        "position": "乌孙小昆弥"
+    },
+    {
+        "name": "皇帝",
+        "occurrences": 1,
+        "position": "皇帝"
+    },
+    {
+        "name": "太皇太后",
+        "occurrences": 1,
+        "position": "太皇太后"
+    },
+    {
+        "name": "皇太后",
+        "occurrences": 1,
+        "position": "皇太后"
+    },
+    {
+        "name": "太子",
+        "occurrences": 1,
+        "position": "太子"
+    },
+    {
+        "name": "侍中乐陵侯史高",
+        "occurrences": 1,
+        "position": "侍中乐陵侯"
+    },
+    {
+        "name": "太子太傅萧望之",
+        "occurrences": 2,
+        "position": "太子太傅"
+    },
+    {
+        "name": "太子少傅周堪",
+        "occurrences": 1,
+        "position": "太子少傅"
+    }
+]

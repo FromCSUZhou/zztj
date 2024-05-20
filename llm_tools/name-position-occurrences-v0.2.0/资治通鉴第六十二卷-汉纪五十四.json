@@ -1,0 +1,337 @@
+[
+    {
+        "name": "董承",
+        "position": "将领",
+        "occurrences": 8
+    },
+    {
+        "name": "张杨",
+        "position": "将领",
+        "occurrences": 0
+    },
+    {
+        "name": "杨奉",
+        "position": "将领",
+        "occurrences": 0
+    },
+    {
+        "name": "李乐",
+        "position": "将领",
+        "occurrences": 0
+    },
+    {
+        "name": "韩暹",
+        "position": "将领",
+        "occurrences": 0
+    },
+    {
+        "name": "胡才",
+        "position": "将领",
+        "occurrences": 3
+    },
+    {
+        "name": "袁术",
+        "position": "军阀",
+        "occurrences": 2
+    },
+    {
+        "name": "曹操",
+        "position": "军阀",
+        "occurrences": 30
+    },
+    {
+        "name": "刘备",
+        "position": "将领",
+        "occurrences": 1
+    },
+    {
+        "name": "张飞",
+        "position": "将领",
+        "occurrences": 0
+    },
+    {
+        "name": "曹豹",
+        "position": "下邳相",
+        "occurrences": 1
+    },
+    {
+        "name": "吕布",
+        "position": "将领",
+        "occurrences": 0
+    },
+    {
+        "name": "许耽",
+        "position": "丹阳中郎将",
+        "occurrences": 0
+    },
+    {
+        "name": "关羽",
+        "position": "将领",
+        "occurrences": 0
+    },
+    {
+        "name": "郝萌",
+        "position": "将领",
+        "occurrences": 1
+    },
+    {
+        "name": "高顺",
+        "position": "都督",
+        "occurrences": 0
+    },
+    {
+        "name": "曹性",
+        "position": "将领",
+        "occurrences": 1
+    },
+    {
+        "name": "赵岐",
+        "position": "太仆",
+        "occurrences": 0
+    },
+    {
+        "name": "张楊",
+        "position": "大司马",
+        "occurrences": 0
+    },
+    {
+        "name": "杨奉",
+        "position": "车骑将军",
+        "occurrences": 0
+    },
+    {
+        "name": "韩暹",
+        "position": "大将军、司隶校尉",
+        "occurrences": 0
+    },
+    {
+        "name": "袁绍",
+        "position": "太尉",
+        "occurrences": 2
+    },
+    {
+        "name": "董昭",
+        "position": "议郎",
+        "occurrences": 3
+    },
+    {
+        "name": "曹洪",
+        "position": "扬武中郎将",
+        "occurrences": 1
+    },
+    {
+        "name": "荀彧",
+        "position": "侍中、尚书令",
+        "occurrences": 7
+    },
+    {
+        "name": "郭嘉",
+        "position": "司空祭酒",
+        "occurrences": 6
+    },
+    {
+        "name": "孙策",
+        "position": "将领",
+        "occurrences": 4
+    },
+    {
+        "name": "王朗",
+        "position": "谏议大夫",
+        "occurrences": 3
+    },
+    {
+        "name": "许褚",
+        "position": "都尉",
+        "occurrences": 0
+    },
+    {
+        "name": "孔融",
+        "position": "将作大匠",
+        "occurrences": 8
+    },
+    {
+        "name": "杨彪",
+        "position": "太尉",
+        "occurrences": 0
+    },
+    {
+        "name": "马日磾",
+        "position": "太尉",
+        "occurrences": 0
+    },
+    {
+        "name": "张济",
+        "position": "将领",
+        "occurrences": 0
+    },
+    {
+        "name": "张绣",
+        "position": "将领",
+        "occurrences": 0
+    },
+    {
+        "name": "贾诩",
+        "position": "宣威将军",
+        "occurrences": 0
+    },
+    {
+        "name": "段煨",
+        "position": "将领",
+        "occurrences": 2
+    },
+    {
+        "name": "刘表",
+        "position": "荆州牧",
+        "occurrences": 2
+    },
+    {
+        "name": "杜夔",
+        "position": "雅乐郎",
+        "occurrences": 1
+    },
+    {
+        "name": "禰衡",
+        "position": "士人",
+        "occurrences": 2
+    },
+    {
+        "name": "黄祖",
+        "position": "江夏太守",
+        "occurrences": 0
+    },
+    {
+        "name": "曹操",
+        "position": "大将军",
+        "occurrences": 30
+    },
+    {
+        "name": "于禁",
+        "position": "平虏校尉",
+        "occurrences": 1
+    },
+    {
+        "name": "荀攸",
+        "position": "军师",
+        "occurrences": 4
+    },
+    {
+        "name": "田丰",
+        "position": "谋士",
+        "occurrences": 0
+    },
+    {
+        "name": "张辽",
+        "position": "将领",
+        "occurrences": 0
+    },
+    {
+        "name": "夏侯惇",
+        "position": "将军",
+        "occurrences": 1
+    },
+    {
+        "name": "臧霸",
+        "position": "将领",
+        "occurrences": 4
+    },
+    {
+        "name": "陈登",
+        "position": "广陵太守",
+        "occurrences": 0
+    },
+    {
+        "name": "陈宫",
+        "position": "谋士",
+        "occurrences": 0
+    },
+    {
+        "name": "许汜",
+        "position": "官属",
+        "occurrences": 0
+    },
+    {
+        "name": "王楷",
+        "position": "官属",
+        "occurrences": 1
+    },
+    {
+        "name": "张杨",
+        "position": "河内太守",
+        "occurrences": 0
+    },
+    {
+        "name": "杨醜",
+        "position": "将领",
+        "occurrences": 0
+    },
+    {
+        "name": "眭固",
+        "position": "别将",
+        "occurrences": 1
+    },
+    {
+        "name": "侯成",
+        "position": "将领",
+        "occurrences": 1
+    },
+    {
+        "name": "宋憲",
+        "position": "将领",
+        "occurrences": 1
+    },
+    {
+        "name": "魏续",
+        "position": "将领",
+        "occurrences": 0
+    },
+    {
+        "name": "关靖",
+        "position": "长史",
+        "occurrences": 2
+    },
+    {
+        "name": "张续",
+        "position": "将领",
+        "occurrences": 0
+    },
+    {
+        "name": "张纮",
+        "position": "正议校尉",
+        "occurrences": 2
+    },
+    {
+        "name": "周瑜",
+        "position": "居巢长",
+        "occurrences": 2
+    },
+    {
+        "name": "鲁肃",
+        "position": "东城长",
+        "occurrences": 1
+    },
+    {
+        "name": "祖郎",
+        "position": "丹杨宗帅",
+        "occurrences": 4
+    },
+    {
+        "name": "太史慈",
+        "position": "将领",
+        "occurrences": 4
+    },
+    {
+        "name": "华歆",
+        "position": "豫章太守",
+        "occurrences": 2
+    },
+    {
+        "name": "桓阶",
+        "position": "郡人",
+        "occurrences": 2
+    },
+    {
+        "name": "张羡",
+        "position": "长沙太守",
+        "occurrences": 1
+    }
+]

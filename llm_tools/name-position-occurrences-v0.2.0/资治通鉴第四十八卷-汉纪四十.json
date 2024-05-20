@@ -1,0 +1,282 @@
+[
+    {
+        "name": "孝和皇帝",
+        "position": "皇帝",
+        "occurrences": 1
+    },
+    {
+        "name": "耿夔",
+        "position": "大将军左校尉",
+        "occurrences": 3
+    },
+    {
+        "name": "任尚",
+        "position": "中郎将",
+        "occurrences": 6
+    },
+    {
+        "name": "周荣",
+        "position": "廬江官员",
+        "occurrences": 0
+    },
+    {
+        "name": "袁安",
+        "position": "司徒",
+        "occurrences": 3
+    },
+    {
+        "name": "竇景",
+        "position": "官员",
+        "occurrences": 3
+    },
+    {
+        "name": "徐齮",
+        "position": "竇氏冬太尉掾",
+        "occurrences": 1
+    },
+    {
+        "name": "丁鸿",
+        "position": "太常",
+        "occurrences": 1
+    },
+    {
+        "name": "竇憲",
+        "position": "大将军",
+        "occurrences": 4
+    },
+    {
+        "name": "鄧疊",
+        "position": "穰侯",
+        "occurrences": 4
+    },
+    {
+        "name": "鄧磊",
+        "position": "步兵校尉",
+        "occurrences": 1
+    },
+    {
+        "name": "鄧元",
+        "position": "鄧疊和鄧磊的母亲",
+        "occurrences": 0
+    },
+    {
+        "name": "鄧伲",
+        "position": "憲女",
+        "occurrences": 0
+    },
+    {
+        "name": "郭舉",
+        "position": "射声校尉",
+        "occurrences": 2
+    },
+    {
+        "name": "郭璜",
+        "position": "长乐少府",
+        "occurrences": 1
+    },
+    {
+        "name": "鄭眾",
+        "position": "中常侍",
+        "occurrences": 4
+    },
+    {
+        "name": "袁赏",
+        "position": "郎",
+        "occurrences": 0
+    },
+    {
+        "name": "任屯",
+        "position": "步兵校尉",
+        "occurrences": 0
+    },
+    {
+        "name": "鄭眾",
+        "position": "大长秋",
+        "occurrences": 4
+    },
+    {
+        "name": "宋由",
+        "position": "太尉",
+        "occurrences": 1
+    },
+    {
+        "name": "尹睦",
+        "position": "大司农",
+        "occurrences": 2
+    },
+    {
+        "name": "劉方",
+        "position": "宗正",
+        "occurrences": 3
+    },
+    {
+        "name": "鄧訓",
+        "position": "护羌校尉",
+        "occurrences": 3
+    },
+    {
+        "name": "聶尚",
+        "position": "蜀郡太守",
+        "occurrences": 2
+    },
+    {
+        "name": "迷唐",
+        "position": "羌族首领",
+        "occurrences": 23
+    },
+    {
+        "name": "千乘貞王伉",
+        "position": "千乘王",
+        "occurrences": 1
+    },
+    {
+        "name": "万岁",
+        "position": "广宗王",
+        "occurrences": 0
+    },
+    {
+        "name": "王輔",
+        "position": "将兵长史",
+        "occurrences": 1
+    },
+    {
+        "name": "尉犁王汎",
+        "position": "尉犁王",
+        "occurrences": 1
+    },
+    {
+        "name": "班超",
+        "position": "西域都护",
+        "occurrences": 5
+    },
+    {
+        "name": "曹壽",
+        "position": "班固的妹夫",
+        "occurrences": 2
+    },
+    {
+        "name": "曹大家",
+        "position": "班固的妹妹",
+        "occurrences": 2
+    },
+    {
+        "name": "張酺",
+        "position": "河南尹",
+        "occurrences": 6
+    },
+    {
+        "name": "張敏",
+        "position": "尚书",
+        "occurrences": 1
+    },
+    {
+        "name": "曹褒",
+        "position": "射声校尉",
+        "occurrences": 1
+    },
+    {
+        "name": "卞忌",
+        "position": "从官",
+        "occurrences": 1
+    },
+    {
+        "name": "梁王暢",
+        "position": "梁王",
+        "occurrences": 1
+    },
+    {
+        "name": "杜崇",
+        "position": "中郎将",
+        "occurrences": 4
+    },
+    {
+        "name": "朱徽",
+        "position": "度辽将军",
+        "occurrences": 6
+    },
+    {
+        "name": "劉尚",
+        "position": "行征西将军",
+        "occurrences": 3
+    },
+    {
+        "name": "趙世",
+        "position": "越骑校尉",
+        "occurrences": 3
+    },
+    {
+        "name": "寇盱",
+        "position": "司马",
+        "occurrences": 1
+    },
+    {
+        "name": "王信",
+        "position": "謁者",
+        "occurrences": 2
+    },
+    {
+        "name": "耿譚",
+        "position": "謁者",
+        "occurrences": 2
+    },
+    {
+        "name": "趙玉",
+        "position": "宫人",
+        "occurrences": 1
+    },
+    {
+        "name": "甘英",
+        "position": "掾",
+        "occurrences": 1
+    },
+    {
+        "name": "任尚",
+        "position": "戊己校尉",
+        "occurrences": 6
+    },
+    {
+        "name": "鄧綏",
+        "position": "贵人",
+        "occurrences": 0
+    },
+    {
+        "name": "鄧騭",
+        "position": "虎贲中郎将",
+        "occurrences": 0
+    },
+    {
+        "name": "巢堪",
+        "position": "司空",
+        "occurrences": 2
+    },
+    {
+        "name": "徐防",
+        "position": "大司农",
+        "occurrences": 1
+    },
+    {
+        "name": "鲁恭",
+        "position": "司徒",
+        "occurrences": 1
+    },
+    {
+        "name": "鄭眾",
+        "position": "大长秋",
+        "occurrences": 4
+    },
+    {
+        "name": "高句驪王宫",
+        "position": "高句驪王",
+        "occurrences": 0
+    },
+    {
+        "name": "耿夔",
+        "position": "遼東太守",
+        "occurrences": 3
+    },
+    {
+        "name": "王渙",
+        "position": "雒陽令",
+        "occurrences": 1
+    }
+]

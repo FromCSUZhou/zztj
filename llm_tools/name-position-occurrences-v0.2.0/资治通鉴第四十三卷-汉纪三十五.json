@@ -1,0 +1,372 @@
+[
+    {
+        "name": "世祖光武皇帝",
+        "position": "皇帝",
+        "occurrences": 1
+    },
+    {
+        "name": "吴汉",
+        "position": "将军",
+        "occurrences": 0
+    },
+    {
+        "name": "公孙述",
+        "position": "蜀地割据势力首领",
+        "occurrences": 0
+    },
+    {
+        "name": "魏党",
+        "position": "公孙述将领",
+        "occurrences": 0
+    },
+    {
+        "name": "公孙永",
+        "position": "公孙述将领",
+        "occurrences": 0
+    },
+    {
+        "name": "伲史兴",
+        "position": "公孙述之子",
+        "occurrences": 0
+    },
+    {
+        "name": "谢丰",
+        "position": "公孙述大司徒",
+        "occurrences": 0
+    },
+    {
+        "name": "袁吉",
+        "position": "公孙述执金吾",
+        "occurrences": 1
+    },
+    {
+        "name": "刘尚",
+        "position": "副将武威将军",
+        "occurrences": 0
+    },
+    {
+        "name": "臧宫",
+        "position": "将军",
+        "occurrences": 0
+    },
+    {
+        "name": "李通",
+        "position": "大司空",
+        "occurrences": 3
+    },
+    {
+        "name": "李雄",
+        "position": "召陵侯",
+        "occurrences": 0
+    },
+    {
+        "name": "延岑",
+        "position": "公孙述将领",
+        "occurrences": 5
+    },
+    {
+        "name": "张堪",
+        "position": "蜀郡太守",
+        "occurrences": 0
+    },
+    {
+        "name": "高午",
+        "position": "护军",
+        "occurrences": 2
+    },
+    {
+        "name": "唐邯",
+        "position": "将军",
+        "occurrences": 1
+    },
+    {
+        "name": "李业",
+        "position": "广汉博士",
+        "occurrences": 0
+    },
+    {
+        "name": "尹融",
+        "position": "大鸿胪",
+        "occurrences": 1
+    },
+    {
+        "name": "李翬",
+        "position": "李业之子",
+        "occurrences": 0
+    },
+    {
+        "name": "譙玄",
+        "position": "巴郡隐士",
+        "occurrences": 2
+    },
+    {
+        "name": "王皓",
+        "position": "蜀邵王",
+        "occurrences": 2
+    },
+    {
+        "name": "王嘉",
+        "position": "蜀邵王",
+        "occurrences": 3
+    },
+    {
+        "name": "费貽",
+        "position": "犍为隐士",
+        "occurrences": 0
+    },
+    {
+        "name": "任永",
+        "position": "犍为隐士",
+        "occurrences": 2
+    },
+    {
+        "name": "馮信",
+        "position": "犍为隐士",
+        "occurrences": 2
+    },
+    {
+        "name": "常少",
+        "position": "太常",
+        "occurrences": 1
+    },
+    {
+        "name": "张隆",
+        "position": "光禄勋",
+        "occurrences": 0
+    },
+    {
+        "name": "程烏",
+        "position": "公孙述将领",
+        "occurrences": 1
+    },
+    {
+        "name": "李育",
+        "position": "公孙述将领",
+        "occurrences": 1
+    },
+    {
+        "name": "文齐",
+        "position": "益州太守",
+        "occurrences": 0
+    },
+    {
+        "name": "杜茂",
+        "position": "骠骑大将军",
+        "occurrences": 3
+    },
+    {
+        "name": "窦融",
+        "position": "五郡太守",
+        "occurrences": 0
+    },
+    {
+        "name": "梁统",
+        "position": "太中大夫",
+        "occurrences": 0
+    },
+    {
+        "name": "孔奋",
+        "position": "姑臧长",
+        "occurrences": 0
+    },
+    {
+        "name": "任延",
+        "position": "睢阳令",
+        "occurrences": 1
+    },
+    {
+        "name": "侯霸",
+        "position": "大司徒",
+        "occurrences": 1
+    },
+    {
+        "name": "郅惲",
+        "position": "上东门候",
+        "occurrences": 3
+    },
+    {
+        "name": "马武",
+        "position": "捕虏将军",
+        "occurrences": 0
+    },
+    {
+        "name": "随昱",
+        "position": "卢芳将领",
+        "occurrences": 0
+    },
+    {
+        "name": "韩歆",
+        "position": "大司徒",
+        "occurrences": 0
+    },
+    {
+        "name": "郅惲",
+        "position": "上东门候",
+        "occurrences": 3
+    },
+    {
+        "name": "马援",
+        "position": "隴西太守",
+        "occurrences": 0
+    },
+    {
+        "name": "马成",
+        "position": "扬武将军",
+        "occurrences": 0
+    },
+    {
+        "name": "臧宫",
+        "position": "将军",
+        "occurrences": 0
+    },
+    {
+        "name": "刘尚",
+        "position": "武威将军",
+        "occurrences": 0
+    },
+    {
+        "name": "阴识",
+        "position": "执金吾",
+        "occurrences": 0
+    },
+    {
+        "name": "阴兴",
+        "position": "卫尉",
+        "occurrences": 0
+    },
+    {
+        "name": "桓荣",
+        "position": "议郎",
+        "occurrences": 0
+    },
+    {
+        "name": "董宣",
+        "position": "雒阳令",
+        "occurrences": 1
+    },
+    {
+        "name": "苏定",
+        "position": "交趾太守",
+        "occurrences": 0
+    },
+    {
+        "name": "徵侧",
+        "position": "雒将",
+        "occurrences": 0
+    },
+    {
+        "name": "徵貳",
+        "position": "雒将",
+        "occurrences": 2
+    },
+    {
+        "name": "张穆",
+        "position": "蜀郡太守",
+        "occurrences": 0
+    },
+    {
+        "name": "史歆",
+        "position": "蜀郡守将",
+        "occurrences": 2
+    },
+    {
+        "name": "杨伟",
+        "position": "宕渠将领",
+        "occurrences": 0
+    },
+    {
+        "name": "单臣",
+        "position": "妖贼",
+        "occurrences": 0
+    },
+    {
+        "name": "传镇",
+        "position": "妖贼",
+        "occurrences": 0
+    },
+    {
+        "name": "马援",
+        "position": "伏波将军",
+        "occurrences": 0
+    },
+    {
+        "name": "刘隆",
+        "position": "扶乐侯",
+        "occurrences": 0
+    },
+    {
+        "name": "张伋",
+        "position": "河南尹",
+        "occurrences": 0
+    },
+    {
+        "name": "戴涉",
+        "position": "大司徒",
+        "occurrences": 2
+    },
+    {
+        "name": "卢芳",
+        "position": "代王",
+        "occurrences": 0
+    },
+    {
+        "name": "郅惲",
+        "position": "上东门候",
+        "occurrences": 3
+    },
+    {
+        "name": "吴汉",
+        "position": "广平忠侯",
+        "occurrences": 0
+    },
+    {
+        "name": "蔡茂",
+        "position": "广汉太守",
+        "occurrences": 1
+    },
+    {
+        "name": "朱浮",
+        "position": "太仆",
+        "occurrences": 3
+    },
+    {
+        "name": "刘隆",
+        "position": "左中郎将",
+        "occurrences": 0
+    },
+    {
+        "name": "郭况",
+        "position": "大鸿胪",
+        "occurrences": 0
+    },
+    {
+        "name": "梁松",
+        "position": "黄门郎",
+        "occurrences": 1
+    },
+    {
+        "name": "窦固",
+        "position": "黄门郎",
+        "occurrences": 0
+    },
+    {
+        "name": "孟冀",
+        "position": "平陵人",
+        "occurrences": 1
+    },
+    {
+        "name": "刘昆",
+        "position": "江陵令",
+        "occurrences": 0
+    },
+    {
+        "name": "杜林",
+        "position": "大司空",
+        "occurrences": 2
+    },
+    {
+        "name": "李茂",
+        "position": "中郎将",
+        "occurrences": 1
+    }
+]

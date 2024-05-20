@@ -1,0 +1,477 @@
+[
+    {
+        "name": "世祖光武皇帝",
+        "position": "皇帝",
+        "occurrences": 1
+    },
+    {
+        "name": "馮異",
+        "position": "征西大將軍",
+        "occurrences": 11
+    },
+    {
+        "name": "鄧禹",
+        "position": "大司徒、梁侯、右將軍",
+        "occurrences": 4
+    },
+    {
+        "name": "鄧弘",
+        "position": "車騎將軍",
+        "occurrences": 1
+    },
+    {
+        "name": "劉恭",
+        "position": "赤眉使者",
+        "occurrences": 2
+    },
+    {
+        "name": "盆子",
+        "position": "赤眉首领",
+        "occurrences": 5
+    },
+    {
+        "name": "徐宣",
+        "position": "赤眉丞相",
+        "occurrences": 3
+    },
+    {
+        "name": "樊崇",
+        "position": "赤眉将领",
+        "occurrences": 3
+    },
+    {
+        "name": "逢安",
+        "position": "赤眉将领",
+        "occurrences": 1
+    },
+    {
+        "name": "楊音",
+        "position": "赤眉将领",
+        "occurrences": 1
+    },
+    {
+        "name": "趙王郎中",
+        "position": "赵王郎中",
+        "occurrences": 1
+    },
+    {
+        "name": "謝祿",
+        "position": "赤眉将领",
+        "occurrences": 1
+    },
+    {
+        "name": "董憲",
+        "position": "海西王",
+        "occurrences": 11
+    },
+    {
+        "name": "張步",
+        "position": "齊王",
+        "occurrences": 16
+    },
+    {
+        "name": "伏隆",
+        "position": "使者",
+        "occurrences": 2
+    },
+    {
+        "name": "周建",
+        "position": "赤眉将领",
+        "occurrences": 8
+    },
+    {
+        "name": "吳漢",
+        "position": "率將",
+        "occurrences": 13
+    },
+    {
+        "name": "耿弇",
+        "position": "率將",
+        "occurrences": 13
+    },
+    {
+        "name": "蓋延",
+        "position": "率將",
+        "occurrences": 6
+    },
+    {
+        "name": "朱浮",
+        "position": "使者",
+        "occurrences": 2
+    },
+    {
+        "name": "侯霸",
+        "position": "尚書令",
+        "occurrences": 3
+    },
+    {
+        "name": "彭寵",
+        "position": "燕王",
+        "occurrences": 11
+    },
+    {
+        "name": "朱祜",
+        "position": "建義大將軍",
+        "occurrences": 4
+    },
+    {
+        "name": "祭遵",
+        "position": "征虜將軍",
+        "occurrences": 5
+    },
+    {
+        "name": "劉喜",
+        "position": "驍騎將軍",
+        "occurrences": 2
+    },
+    {
+        "name": "王莽",
+        "position": "末代皇帝",
+        "occurrences": 6
+    },
+    {
+        "name": "馬援",
+        "position": "使者",
+        "occurrences": 5
+    },
+    {
+        "name": "隗囂",
+        "position": "將軍",
+        "occurrences": 8
+    },
+    {
+        "name": "來歙",
+        "position": "太中大夫",
+        "occurrences": 5
+    },
+    {
+        "name": "樊崇",
+        "position": "赤眉将领",
+        "occurrences": 3
+    },
+    {
+        "name": "岑彭",
+        "position": "建威大將軍",
+        "occurrences": 9
+    },
+    {
+        "name": "傅俊",
+        "position": "積弩將軍",
+        "occurrences": 1
+    },
+    {
+        "name": "劉永",
+        "position": "梁王",
+        "occurrences": 5
+    },
+    {
+        "name": "劉紆",
+        "position": "梁王之子",
+        "occurrences": 5
+    },
+    {
+        "name": "蘇茂",
+        "position": "赤眉将领",
+        "occurrences": 10
+    },
+    {
+        "name": "王梁",
+        "position": "率將",
+        "occurrences": 2
+    },
+    {
+        "name": "馬武",
+        "position": "捕虜將軍",
+        "occurrences": 4
+    },
+    {
+        "name": "王霸",
+        "position": "騎都尉",
+        "occurrences": 3
+    },
+    {
+        "name": "賁休",
+        "position": "將領",
+        "occurrences": 3
+    },
+    {
+        "name": "韓立",
+        "position": "尚書",
+        "occurrences": 1
+    },
+    {
+        "name": "韓利",
+        "position": "國師",
+        "occurrences": 1
+    },
+    {
+        "name": "郭伋",
+        "position": "漁陽太守",
+        "occurrences": 1
+    },
+    {
+        "name": "樊宏",
+        "position": "光祿大夫",
+        "occurrences": 1
+    },
+    {
+        "name": "耿況",
+        "position": "上谷將領",
+        "occurrences": 3
+    },
+    {
+        "name": "龐萌",
+        "position": "平敵將軍",
+        "occurrences": 12
+    },
+    {
+        "name": "孫萌",
+        "position": "楚郡太守",
+        "occurrences": 2
+    },
+    {
+        "name": "劉平",
+        "position": "郡吏",
+        "occurrences": 1
+    },
+    {
+        "name": "田戎",
+        "position": "將領",
+        "occurrences": 2
+    },
+    {
+        "name": "公孫述",
+        "position": "蜀地將領",
+        "occurrences": 9
+    },
+    {
+        "name": "馮駿",
+        "position": "威虜將軍",
+        "occurrences": 1
+    },
+    {
+        "name": "田鴻",
+        "position": "都尉",
+        "occurrences": 1
+    },
+    {
+        "name": "李玄",
+        "position": "領軍",
+        "occurrences": 1
+    },
+    {
+        "name": "班彪",
+        "position": "謀士",
+        "occurrences": 2
+    },
+    {
+        "name": "張玄",
+        "position": "辯士",
+        "occurrences": 1
+    },
+    {
+        "name": "劉鈞",
+        "position": "長史",
+        "occurrences": 1
+    },
+    {
+        "name": "張藍",
+        "position": "將領",
+        "occurrences": 1
+    },
+    {
+        "name": "張弘",
+        "position": "將領",
+        "occurrences": 0
+    },
+    {
+        "name": "張壽",
+        "position": "將領",
+        "occurrences": 0
+    },
+    {
+        "name": "重異",
+        "position": "渠帥",
+        "occurrences": 2
+    },
+    {
+        "name": "劉歆",
+        "position": "都尉",
+        "occurrences": 4
+    },
+    {
+        "name": "陳俊",
+        "position": "泰山太守",
+        "occurrences": 6
+    },
+    {
+        "name": "費邑",
+        "position": "大將軍",
+        "occurrences": 3
+    },
+    {
+        "name": "費敢",
+        "position": "將領",
+        "occurrences": 1
+    },
+    {
+        "name": "張步三弟",
+        "position": "將領",
+        "occurrences": 1
+    },
+    {
+        "name": "張步",
+        "position": "安丘侯",
+        "occurrences": 16
+    },
+    {
+        "name": "伏湛",
+        "position": "大司徒",
+        "occurrences": 3
+    },
+    {
+        "name": "侯霸",
+        "position": "大司徒",
+        "occurrences": 3
+    },
+    {
+        "name": "閔仲叔",
+        "position": "太原名士",
+        "occurrences": 1
+    },
+    {
+        "name": "李興",
+        "position": "將軍",
+        "occurrences": 1
+    },
+    {
+        "name": "隨昱",
+        "position": "將軍",
+        "occurrences": 1
+    },
+    {
+        "name": "田颯",
+        "position": "將軍",
+        "occurrences": 1
+    },
+    {
+        "name": "石鮪",
+        "position": "將軍",
+        "occurrences": 1
+    },
+    {
+        "name": "閔堪",
+        "position": "將軍",
+        "occurrences": 1
+    },
+    {
+        "name": "盧芳",
+        "position": "自称帝",
+        "occurrences": 2
+    },
+    {
+        "name": "鄭興",
+        "position": "謀士",
+        "occurrences": 4
+    },
+    {
+        "name": "恂",
+        "position": "隗囂之子",
+        "occurrences": 3
+    },
+    {
+        "name": "王元",
+        "position": "謀士",
+        "occurrences": 1
+    },
+    {
+        "name": "申屠剛",
+        "position": "謀士",
+        "occurrences": 1
+    },
+    {
+        "name": "岑彭",
+        "position": "將軍",
+        "occurrences": 9
+    },
+    {
+        "name": "鄧讓",
+        "position": "交趾牧",
+        "occurrences": 1
+    },
+    {
+        "name": "屈充",
+        "position": "偏將軍",
+        "occurrences": 1
+    },
+    {
+        "name": "侯登",
+        "position": "江夏太守",
+        "occurrences": 1
+    },
+    {
+        "name": "王堂",
+        "position": "武陵太守",
+        "occurrences": 1
+    },
+    {
+        "name": "韓福",
+        "position": "長沙相",
+        "occurrences": 1
+    },
+    {
+        "name": "張隆",
+        "position": "桂陽太守",
+        "occurrences": 1
+    },
+    {
+        "name": "田翕",
+        "position": "零陵太守",
+        "occurrences": 1
+    },
+    {
+        "name": "杜穆",
+        "position": "蒼梧太守",
+        "occurrences": 1
+    },
+    {
+        "name": "錫光",
+        "position": "交趾太守",
+        "occurrences": 2
+    },
+    {
+        "name": "任延",
+        "position": "九真太守",
+        "occurrences": 1
+    },
+    {
+        "name": "周黨",
+        "position": "處士",
+        "occurrences": 3
+    },
+    {
+        "name": "嚴光",
+        "position": "處士",
+        "occurrences": 2
+    },
+    {
+        "name": "范升",
+        "position": "博士",
+        "occurrences": 1
+    },
+    {
+        "name": "莎車王延",
+        "position": "莎車王",
+        "occurrences": 1
+    },
+    {
+        "name": "莎車王康",
+        "position": "莎車王",
+        "occurrences": 0
+    },
+    {
+        "name": "竇融",
+        "position": "將軍",
+        "occurrences": 3
+    }
+]

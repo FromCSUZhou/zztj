@@ -40,12 +40,12 @@ def save_dict_as_json(content_dict, file_path):
 
 
 # 指定目录
-directory_path = '/Users/tuozhou/Desktop/My_PhD/Quantitative_History/zztj/C-汉纪'
+directory_path = 'zztj/C-汉纪'
 # 调用函数读取文件
 hanji_contents = read_files_in_directory(directory_path)
 
 # 将内容保存为JSON文件
-json_file_path = '/Users/tuozhou/Desktop/My_PhD/Quantitative_History/zztj/llm_tools/zztj_content.json'
+json_file_path = 'zztj/llm_tools/zztj_content.json'
 save_dict_as_json(hanji_contents, json_file_path)
 
 # 如果需要查看某个特定的条目，可以直接访问

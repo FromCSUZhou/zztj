@@ -1,0 +1,377 @@
+[
+    {
+        "name": "孝桓皇帝",
+        "position": "皇帝",
+        "occurrences": 1
+    },
+    {
+        "name": "邟鄉忠侯黃瓊",
+        "position": "邟鄉忠侯",
+        "occurrences": 1
+    },
+    {
+        "name": "徐牦",
+        "position": "名士",
+        "occurrences": 3
+    },
+    {
+        "name": "茅容",
+        "position": "名士",
+        "occurrences": 3
+    },
+    {
+        "name": "太原郭泰",
+        "position": "名士",
+        "occurrences": 1
+    },
+    {
+        "name": "陳留符融",
+        "position": "名士",
+        "occurrences": 1
+    },
+    {
+        "name": "河南尹李膺",
+        "position": "河南尹",
+        "occurrences": 2
+    },
+    {
+        "name": "鉅鹿孟敏",
+        "position": "名士",
+        "occurrences": 1
+    },
+    {
+        "name": "陳留申屠蟠",
+        "position": "名士",
+        "occurrences": 1
+    },
+    {
+        "name": "鄢陵庾乘",
+        "position": "名士",
+        "occurrences": 1
+    },
+    {
+        "name": "魏昭",
+        "position": "童子",
+        "occurrences": 1
+    },
+    {
+        "name": "南陽太守成軅",
+        "position": "南陽太守",
+        "occurrences": 3
+    },
+    {
+        "name": "護羌校尉段潁",
+        "position": "護羌校尉",
+        "occurrences": 1
+    },
+    {
+        "name": "中常侍汝阳侯唐衡",
+        "position": "中常侍",
+        "occurrences": 1
+    },
+    {
+        "name": "中常侍武原侯徐璜",
+        "position": "中常侍",
+        "occurrences": 0
+    },
+    {
+        "name": "寇榮",
+        "position": "侍中",
+        "occurrences": 2
+    },
+    {
+        "name": "張敬",
+        "position": "刺史",
+        "occurrences": 1
+    },
+    {
+        "name": "太尉楊秉",
+        "position": "太尉",
+        "occurrences": 3
+    },
+    {
+        "name": "北軍中候陳留史弼",
+        "position": "北軍中候",
+        "occurrences": 1
+    },
+    {
+        "name": "勃海王悝",
+        "position": "勃海王",
+        "occurrences": 2
+    },
+    {
+        "name": "中常侍侯覽",
+        "position": "中常侍",
+        "occurrences": 3
+    },
+    {
+        "name": "侯覽弟參",
+        "position": "益州刺史",
+        "occurrences": 1
+    },
+    {
+        "name": "司隸校尉韓縯",
+        "position": "司隸校尉",
+        "occurrences": 1
+    },
+    {
+        "name": "具瑗",
+        "position": "中常侍",
+        "occurrences": 2
+    },
+    {
+        "name": "具瑗兄沛相恭",
+        "position": "沛相",
+        "occurrences": 1
+    },
+    {
+        "name": "張讓",
+        "position": "中常侍",
+        "occurrences": 1
+    },
+    {
+        "name": "左悺",
+        "position": "中常侍",
+        "occurrences": 2
+    },
+    {
+        "name": "太中大夫陳蕃",
+        "position": "太中大夫",
+        "occurrences": 1
+    },
+    {
+        "name": "太常胡廣",
+        "position": "太常",
+        "occurrences": 1
+    },
+    {
+        "name": "議郎王暢",
+        "position": "議郎",
+        "occurrences": 1
+    },
+    {
+        "name": "度遼將軍段熲",
+        "position": "度遼將軍",
+        "occurrences": 0
+    },
+    {
+        "name": "太尉陳蕃",
+        "position": "太尉",
+        "occurrences": 4
+    },
+    {
+        "name": "司空周景",
+        "position": "司空",
+        "occurrences": 1
+    },
+    {
+        "name": "太常劉茂",
+        "position": "太常",
+        "occurrences": 1
+    },
+    {
+        "name": "司徒許栩",
+        "position": "司徒",
+        "occurrences": 1
+    },
+    {
+        "name": "太常廣",
+        "position": "太常",
+        "occurrences": 1
+    },
+    {
+        "name": "護匈奴中郎將張奐",
+        "position": "護匈奴中郎將",
+        "occurrences": 0
+    },
+    {
+        "name": "河南尹房植",
+        "position": "河南尹",
+        "occurrences": 1
+    },
+    {
+        "name": "宗資",
+        "position": "汝南太守",
+        "occurrences": 2
+    },
+    {
+        "name": "范滂",
+        "position": "功曹",
+        "occurrences": 6
+    },
+    {
+        "name": "岑晊",
+        "position": "功曹",
+        "occurrences": 5
+    },
+    {
+        "name": "李頌",
+        "position": "范滂甥",
+        "occurrences": 1
+    },
+    {
+        "name": "朱零",
+        "position": "書佐",
+        "occurrences": 1
+    },
+    {
+        "name": "郭泰",
+        "position": "名士",
+        "occurrences": 4
+    },
+    {
+        "name": "賈彪",
+        "position": "名士",
+        "occurrences": 2
+    },
+    {
+        "name": "李膺",
+        "position": "司隸校尉",
+        "occurrences": 12
+    },
+    {
+        "name": "王暢",
+        "position": "名士",
+        "occurrences": 3
+    },
+    {
+        "name": "張汎",
+        "position": "富賈",
+        "occurrences": 3
+    },
+    {
+        "name": "張牧",
+        "position": "賊曹史",
+        "occurrences": 2
+    },
+    {
+        "name": "晉陽趙津",
+        "position": "小黃門",
+        "occurrences": 1
+    },
+    {
+        "name": "原劉昼",
+        "position": "太原太守",
+        "occurrences": 1
+    },
+    {
+        "name": "翟超",
+        "position": "山陽太守",
+        "occurrences": 3
+    },
+    {
+        "name": "張儉",
+        "position": "東部督郵",
+        "occurrences": 1
+    },
+    {
+        "name": "徐宣",
+        "position": "下邳令",
+        "occurrences": 2
+    },
+    {
+        "name": "李暠",
+        "position": "故汝南太守",
+        "occurrences": 1
+    },
+    {
+        "name": "黃浮",
+        "position": "東海相",
+        "occurrences": 2
+    },
+    {
+        "name": "應奉",
+        "position": "司隸校尉",
+        "occurrences": 2
+    },
+    {
+        "name": "荀爽",
+        "position": "太常舉人",
+        "occurrences": 1
+    },
+    {
+        "name": "皇甫規",
+        "position": "度遼將軍",
+        "occurrences": 3
+    },
+    {
+        "name": "胡芳",
+        "position": "并州刺史",
+        "occurrences": 1
+    },
+    {
+        "name": "竇武",
+        "position": "城門校尉",
+        "occurrences": 3
+    },
+    {
+        "name": "宣酆",
+        "position": "司空",
+        "occurrences": 1
+    },
+    {
+        "name": "張鳳",
+        "position": "太學生",
+        "occurrences": 2
+    },
+    {
+        "name": "杜密",
+        "position": "太僕",
+        "occurrences": 2
+    },
+    {
+        "name": "陳翔",
+        "position": "御史中丞",
+        "occurrences": 1
+    },
+    {
+        "name": "陳寔",
+        "position": "名士",
+        "occurrences": 2
+    },
+    {
+        "name": "張成",
+        "position": "風角師",
+        "occurrences": 1
+    },
+    {
+        "name": "牢脩",
+        "position": "張成弟子",
+        "occurrences": 1
+    },
+    {
+        "name": "蔡衍",
+        "position": "符節令",
+        "occurrences": 1
+    },
+    {
+        "name": "劉瑜",
+        "position": "議郎",
+        "occurrences": 2
+    },
+    {
+        "name": "賈彪",
+        "position": "名士",
+        "occurrences": 2
+    },
+    {
+        "name": "劉勝",
+        "position": "名士",
+        "occurrences": 3
+    },
+    {
+        "name": "王昱",
+        "position": "太守",
+        "occurrences": 1
+    },
+    {
+        "name": "宣酆",
+        "position": "光祿勳",
+        "occurrences": 1
+    },
+    {
+        "name": "檀石槐",
+        "position": "鮮卑首領",
+        "occurrences": 3
+    }
+]

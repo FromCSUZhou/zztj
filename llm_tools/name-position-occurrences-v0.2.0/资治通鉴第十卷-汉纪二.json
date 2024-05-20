@@ -1,0 +1,187 @@
+[
+    {
+        "name": "韩信",
+        "position": "将军",
+        "occurrences": 30
+    },
+    {
+        "name": "张耳",
+        "position": "将军",
+        "occurrences": 10
+    },
+    {
+        "name": "赵王歇",
+        "position": "赵王",
+        "occurrences": 1
+    },
+    {
+        "name": "成安君陈余",
+        "position": "成安君",
+        "occurrences": 1
+    },
+    {
+        "name": "广武君李左车",
+        "position": "广武君",
+        "occurrences": 1
+    },
+    {
+        "name": "汉王",
+        "position": "汉王",
+        "occurrences": 80
+    },
+    {
+        "name": "随何",
+        "position": "使者",
+        "occurrences": 5
+    },
+    {
+        "name": "九江王",
+        "position": "九江王",
+        "occurrences": 5
+    },
+    {
+        "name": "项羽",
+        "position": "楚王",
+        "occurrences": 7
+    },
+    {
+        "name": "郦食其",
+        "position": "谋士",
+        "occurrences": 3
+    },
+    {
+        "name": "张良",
+        "position": "谋士",
+        "occurrences": 6
+    },
+    {
+        "name": "陈平",
+        "position": "谋士",
+        "occurrences": 6
+    },
+    {
+        "name": "项伯",
+        "position": "楚将",
+        "occurrences": 2
+    },
+    {
+        "name": "纪信",
+        "position": "将军",
+        "occurrences": 3
+    },
+    {
+        "name": "周苛",
+        "position": "将军",
+        "occurrences": 5
+    },
+    {
+        "name": "魏豹",
+        "position": "将军",
+        "occurrences": 2
+    },
+    {
+        "name": "韩王信",
+        "position": "韩王",
+        "occurrences": 2
+    },
+    {
+        "name": "枞公",
+        "position": "将军",
+        "occurrences": 3
+    },
+    {
+        "name": "辕生",
+        "position": "谋士",
+        "occurrences": 1
+    },
+    {
+        "name": "彭越",
+        "position": "将军",
+        "occurrences": 9
+    },
+    {
+        "name": "滕公",
+        "position": "将军",
+        "occurrences": 1
+    },
+    {
+        "name": "刘贾",
+        "position": "将军",
+        "occurrences": 2
+    },
+    {
+        "name": "卢绾",
+        "position": "将军",
+        "occurrences": 1
+    },
+    {
+        "name": "曹咎",
+        "position": "楚大司马",
+        "occurrences": 2
+    },
+    {
+        "name": "灌婴",
+        "position": "将军",
+        "occurrences": 2
+    },
+    {
+        "name": "田横",
+        "position": "齐将",
+        "occurrences": 5
+    },
+    {
+        "name": "田光",
+        "position": "齐守相",
+        "occurrences": 2
+    },
+    {
+        "name": "田既",
+        "position": "齐将",
+        "occurrences": 2
+    },
+    {
+        "name": "田吸",
+        "position": "齐将",
+        "occurrences": 1
+    },
+    {
+        "name": "曹参",
+        "position": "将军",
+        "occurrences": 1
+    },
+    {
+        "name": "龙且",
+        "position": "楚将",
+        "occurrences": 12
+    },
+    {
+        "name": "楼烦",
+        "position": "骑射将",
+        "occurrences": 6
+    },
+    {
+        "name": "武涉",
+        "position": "使者",
+        "occurrences": 2
+    },
+    {
+        "name": "蒯彻",
+        "position": "谋士",
+        "occurrences": 5
+    },
+    {
+        "name": "黥布",
+        "position": "淮南王",
+        "occurrences": 2
+    },
+    {
+        "name": "周昌",
+        "position": "御史大夫",
+        "occurrences": 1
+    },
+    {
+        "name": "侯公",
+        "position": "说客",
+        "occurrences": 1
+    }
+]

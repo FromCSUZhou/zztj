@@ -1,0 +1,192 @@
+[
+    {
+        "name": "太祖高皇帝",
+        "position": "皇帝",
+        "occurrences": 1
+    },
+    {
+        "name": "韩王信",
+        "position": "韩王",
+        "occurrences": 4
+    },
+    {
+        "name": "贯高",
+        "position": "谋士",
+        "occurrences": 13
+    },
+    {
+        "name": "刘敬",
+        "position": "使者",
+        "occurrences": 4
+    },
+    {
+        "name": "吕后",
+        "position": "皇后",
+        "occurrences": 36
+    },
+    {
+        "name": "刘敬",
+        "position": "使者",
+        "occurrences": 4
+    },
+    {
+        "name": "张敖",
+        "position": "赵王",
+        "occurrences": 4
+    },
+    {
+        "name": "周昌",
+        "position": "赵相",
+        "occurrences": 7
+    },
+    {
+        "name": "张王",
+        "position": "赵王",
+        "occurrences": 5
+    },
+    {
+        "name": "吕后",
+        "position": "皇后",
+        "occurrences": 36
+    },
+    {
+        "name": "田叔",
+        "position": "郎中",
+        "occurrences": 3
+    },
+    {
+        "name": "孟舒",
+        "position": "郎中",
+        "occurrences": 3
+    },
+    {
+        "name": "何",
+        "position": "丞相",
+        "occurrences": 62
+    },
+    {
+        "name": "太上皇",
+        "position": "皇帝之父",
+        "occurrences": 6
+    },
+    {
+        "name": "太上皇后",
+        "position": "皇帝之母",
+        "occurrences": 1
+    },
+    {
+        "name": "陈豨",
+        "position": "相国",
+        "occurrences": 15
+    },
+    {
+        "name": "淮阴侯",
+        "position": "侯",
+        "occurrences": 6
+    },
+    {
+        "name": "曹参",
+        "position": "丞相",
+        "occurrences": 6
+    },
+    {
+        "name": "周勃",
+        "position": "太尉",
+        "occurrences": 8
+    },
+    {
+        "name": "陈平",
+        "position": "丞相",
+        "occurrences": 6
+    },
+    {
+        "name": "吕后",
+        "position": "太后",
+        "occurrences": 36
+    },
+    {
+        "name": "惠帝",
+        "position": "皇帝",
+        "occurrences": 4
+    },
+    {
+        "name": "张良",
+        "position": "谋士",
+        "occurrences": 4
+    },
+    {
+        "name": "戚夫人",
+        "position": "夫人",
+        "occurrences": 9
+    },
+    {
+        "name": "赵王如意",
+        "position": "赵王",
+        "occurrences": 4
+    },
+    {
+        "name": "冒顿单于",
+        "position": "匈奴单于",
+        "occurrences": 1
+    },
+    {
+        "name": "樊哙",
+        "position": "将军",
+        "occurrences": 10
+    },
+    {
+        "name": "季布",
+        "position": "中郎将",
+        "occurrences": 2
+    },
+    {
+        "name": "张释",
+        "position": "大谒者",
+        "occurrences": 3
+    },
+    {
+        "name": "张敖",
+        "position": "鲁元公主之夫",
+        "occurrences": 4
+    },
+    {
+        "name": "鲁元公主",
+        "position": "公主",
+        "occurrences": 3
+    },
+    {
+        "name": "叔孙通",
+        "position": "奉常",
+        "occurrences": 6
+    },
+    {
+        "name": "曹参",
+        "position": "相国",
+        "occurrences": 6
+    },
+    {
+        "name": "王陵",
+        "position": "右丞相",
+        "occurrences": 2
+    },
+    {
+        "name": "陈平",
+        "position": "左丞相",
+        "occurrences": 6
+    },
+    {
+        "name": "张良",
+        "position": "文成侯",
+        "occurrences": 4
+    },
+    {
+        "name": "周勃",
+        "position": "太尉",
+        "occurrences": 8
+    },
+    {
+        "name": "灌婴",
+        "position": "将军",
+        "occurrences": 2
+    }
+]

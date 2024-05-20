@@ -1,15 +1,16 @@
 from typing import List
+
+from dotenv import load_dotenv
 from loguru import logger
 from openai import OpenAI
 
-
+load_dotenv()
 
 
 def call_gpt_static(query: List[dict],
-                    model: str = 'gpt-4-1106-preview',
+                    model: str = 'gpt-4o',
                     temperature: float = 0.5):
-    client = OpenAI(api_key=gpt_key, base_url=url)
-
+    client = OpenAI()
     completion = client.chat.completions.create(
         model=model,
         messages=query,

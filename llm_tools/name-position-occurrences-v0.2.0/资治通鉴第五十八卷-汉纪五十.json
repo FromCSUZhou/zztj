@@ -1,0 +1,357 @@
+[
+    {
+        "name": "孝灵皇帝",
+        "position": "皇帝",
+        "occurrences": 0
+    },
+    {
+        "name": "梁龙",
+        "position": "交趾反叛者",
+        "occurrences": 0
+    },
+    {
+        "name": "朱儁",
+        "position": "交趾刺史",
+        "occurrences": 9
+    },
+    {
+        "name": "刘宽",
+        "position": "太尉",
+        "occurrences": 0
+    },
+    {
+        "name": "许戫",
+        "position": "太尉",
+        "occurrences": 0
+    },
+    {
+        "name": "杨賜",
+        "position": "司徒",
+        "occurrences": 0
+    },
+    {
+        "name": "陈耽",
+        "position": "太常，后为司徒",
+        "occurrences": 0
+    },
+    {
+        "name": "檀石槐",
+        "position": "鲜卑首领",
+        "occurrences": 1
+    },
+    {
+        "name": "和连",
+        "position": "鲜卑首领，檀石槐之子",
+        "occurrences": 0
+    },
+    {
+        "name": "魁头",
+        "position": "鲜卑首领，和连之兄子",
+        "occurrences": 0
+    },
+    {
+        "name": "步度根",
+        "position": "鲜卑首领，魁头之弟",
+        "occurrences": 1
+    },
+    {
+        "name": "吕强",
+        "position": "中常侍",
+        "occurrences": 0
+    },
+    {
+        "name": "何皇后",
+        "position": "皇后",
+        "occurrences": 1
+    },
+    {
+        "name": "王美人",
+        "position": "后宫美人",
+        "occurrences": 1
+    },
+    {
+        "name": "曹节",
+        "position": "大长秋，华容侯",
+        "occurrences": 0
+    },
+    {
+        "name": "赵忠",
+        "position": "中常侍，后为大长秋",
+        "occurrences": 1
+    },
+    {
+        "name": "张角",
+        "position": "太平道首领",
+        "occurrences": 0
+    },
+    {
+        "name": "唐周",
+        "position": "张角之子",
+        "occurrences": 1
+    },
+    {
+        "name": "马元义",
+        "position": "黄巾军大方",
+        "occurrences": 0
+    },
+    {
+        "name": "封諝",
+        "position": "中常侍",
+        "occurrences": 2
+    },
+    {
+        "name": "徐奉",
+        "position": "中常侍",
+        "occurrences": 2
+    },
+    {
+        "name": "何进",
+        "position": "大将军，河南尹",
+        "occurrences": 0
+    },
+    {
+        "name": "卢植",
+        "position": "北中郎将",
+        "occurrences": 0
+    },
+    {
+        "name": "皇甫嵩",
+        "position": "左中郎将",
+        "occurrences": 9
+    },
+    {
+        "name": "朱儁",
+        "position": "右中郎将",
+        "occurrences": 9
+    },
+    {
+        "name": "赵忠",
+        "position": "中常侍",
+        "occurrences": 1
+    },
+    {
+        "name": "张让",
+        "position": "中常侍",
+        "occurrences": 0
+    },
+    {
+        "name": "夏惲",
+        "position": "中常侍",
+        "occurrences": 2
+    },
+    {
+        "name": "郭胜",
+        "position": "中常侍",
+        "occurrences": 0
+    },
+    {
+        "name": "段珪",
+        "position": "中常侍",
+        "occurrences": 2
+    },
+    {
+        "name": "宋典",
+        "position": "中常侍",
+        "occurrences": 3
+    },
+    {
+        "name": "向栩",
+        "position": "侍中",
+        "occurrences": 1
+    },
+    {
+        "name": "张鈞",
+        "position": "郎中",
+        "occurrences": 0
+    },
+    {
+        "name": "褚貢",
+        "position": "南阳太守",
+        "occurrences": 1
+    },
+    {
+        "name": "杨賜",
+        "position": "太尉，后被免职",
+        "occurrences": 0
+    },
+    {
+        "name": "鄧盛",
+        "position": "太尉",
+        "occurrences": 2
+    },
+    {
+        "name": "张濟",
+        "position": "司空",
+        "occurrences": 0
+    },
+    {
+        "name": "张温",
+        "position": "大司农，后为司空",
+        "occurrences": 1
+    },
+    {
+        "name": "曹操",
+        "position": "骑都尉",
+        "occurrences": 4
+    },
+    {
+        "name": "傅燮",
+        "position": "护军司马",
+        "occurrences": 7
+    },
+    {
+        "name": "程包",
+        "position": "汉中计吏",
+        "occurrences": 1
+    },
+    {
+        "name": "秦頡",
+        "position": "南阳太守",
+        "occurrences": 3
+    },
+    {
+        "name": "賈琮",
+        "position": "交趾刺史",
+        "occurrences": 1
+    },
+    {
+        "name": "张曼成",
+        "position": "南阳黄巾首领",
+        "occurrences": 0
+    },
+    {
+        "name": "孙坚",
+        "position": "司马，后为长沙太守",
+        "occurrences": 0
+    },
+    {
+        "name": "董卓",
+        "position": "东中郎将",
+        "occurrences": 6
+    },
+    {
+        "name": "张脩",
+        "position": "五斗米道首领",
+        "occurrences": 0
+    },
+    {
+        "name": "卜巳",
+        "position": "黄巾军首领",
+        "occurrences": 1
+    },
+    {
+        "name": "安平王续",
+        "position": "安平王",
+        "occurrences": 0
+    },
+    {
+        "name": "李燮",
+        "position": "议郎",
+        "occurrences": 1
+    },
+    {
+        "name": "泠徵",
+        "position": "护羌校尉",
+        "occurrences": 1
+    },
+    {
+        "name": "邊章",
+        "position": "金城人，反叛者",
+        "occurrences": 4
+    },
+    {
+        "name": "韓遂",
+        "position": "金城人，反叛者",
+        "occurrences": 3
+    },
+    {
+        "name": "蘇正和",
+        "position": "武都从事",
+        "occurrences": 2
+    },
+    {
+        "name": "梁鵠",
+        "position": "刺史",
+        "occurrences": 1
+    },
+    {
+        "name": "蓋勳",
+        "position": "汉阳长史",
+        "occurrences": 1
+    },
+    {
+        "name": "左昌",
+        "position": "刺史",
+        "occurrences": 1
+    },
+    {
+        "name": "夏育",
+        "position": "校尉",
+        "occurrences": 1
+    },
+    {
+        "name": "北宮伯玉",
+        "position": "湟中义从胡将军",
+        "occurrences": 4
+    },
+    {
+        "name": "赵忠",
+        "position": "中常侍",
+        "occurrences": 1
+    },
+    {
+        "name": "趙弘",
+        "position": "黄巾军首领",
+        "occurrences": 1
+    },
+    {
+        "name": "韩忠",
+        "position": "黄巾军首领",
+        "occurrences": 0
+    },
+    {
+        "name": "孙夏",
+        "position": "黄巾军首领",
+        "occurrences": 0
+    },
+    {
+        "name": "王允",
+        "position": "豫州刺史",
+        "occurrences": 1
+    },
+    {
+        "name": "崔烈",
+        "position": "司徒，后为太尉",
+        "occurrences": 4
+    },
+    {
+        "name": "劉陶",
+        "position": "课议大夫",
+        "occurrences": 4
+    },
+    {
+        "name": "張舉",
+        "position": "反叛者，称天子",
+        "occurrences": 1
+    },
+    {
+        "name": "張純",
+        "position": "反叛者，称彌天将军，安定王",
+        "occurrences": 2
+    },
+    {
+        "name": "孫堅",
+        "position": "長沙太守",
+        "occurrences": 5
+    },
+    {
+        "name": "曹嵩",
+        "position": "太尉",
+        "occurrences": 1
+    },
+    {
+        "name": "陳寔",
+        "position": "前太丘長",
+        "occurrences": 1
+    }
+]

@@ -1,0 +1,457 @@
+[
+    {
+        "name": "孝殇皇帝",
+        "position": "皇帝",
+        "occurrences": 1
+    },
+    {
+        "name": "张禹",
+        "position": "太尉, 太傅",
+        "occurrences": 0
+    },
+    {
+        "name": "徐防",
+        "position": "司徒, 太尉",
+        "occurrences": 3
+    },
+    {
+        "name": "梁鲔",
+        "position": "光禄勋, 司徒",
+        "occurrences": 0
+    },
+    {
+        "name": "清河王庆",
+        "position": "王",
+        "occurrences": 0
+    },
+    {
+        "name": "济北王寿",
+        "position": "王",
+        "occurrences": 0
+    },
+    {
+        "name": "河间王开",
+        "position": "王",
+        "occurrences": 0
+    },
+    {
+        "name": "常山王章",
+        "position": "王",
+        "occurrences": 1
+    },
+    {
+        "name": "严授",
+        "position": "兵马掾",
+        "occurrences": 0
+    },
+    {
+        "name": "张显",
+        "position": "渔阳太守",
+        "occurrences": 0
+    },
+    {
+        "name": "卫福",
+        "position": "主簿",
+        "occurrences": 0
+    },
+    {
+        "name": "徐咸",
+        "position": "功曹",
+        "occurrences": 1
+    },
+    {
+        "name": "邓骘",
+        "position": "虎贲中郎将, 车骑将军",
+        "occurrences": 0
+    },
+    {
+        "name": "邓悝",
+        "position": "黄门侍郎, 虎贲中郎将",
+        "occurrences": 0
+    },
+    {
+        "name": "邓弘",
+        "position": "侍中",
+        "occurrences": 0
+    },
+    {
+        "name": "邓閶",
+        "position": "侍中",
+        "occurrences": 0
+    },
+    {
+        "name": "尹勤",
+        "position": "太常, 司空",
+        "occurrences": 3
+    },
+    {
+        "name": "梁慬",
+        "position": "北地, 西域副校尉",
+        "occurrences": 11
+    },
+    {
+        "name": "任尚",
+        "position": "西域都护",
+        "occurrences": 10
+    },
+    {
+        "name": "段禧",
+        "position": "骑都尉, 西域都护",
+        "occurrences": 5
+    },
+    {
+        "name": "赵博",
+        "position": "西域长史, 骑都尉",
+        "occurrences": 0
+    },
+    {
+        "name": "王弘",
+        "position": "骑都尉",
+        "occurrences": 2
+    },
+    {
+        "name": "麻奴",
+        "position": "羌豪",
+        "occurrences": 2
+    },
+    {
+        "name": "勒姐",
+        "position": "羌豪",
+        "occurrences": 2
+    },
+    {
+        "name": "当煎",
+        "position": "羌豪",
+        "occurrences": 0
+    },
+    {
+        "name": "东岸",
+        "position": "羌豪",
+        "occurrences": 0
+    },
+    {
+        "name": "垣山",
+        "position": "河东",
+        "occurrences": 1
+    },
+    {
+        "name": "仲长统",
+        "position": "昌言",
+        "occurrences": 0
+    },
+    {
+        "name": "鲁恭",
+        "position": "长乐卫尉, 司徒",
+        "occurrences": 0
+    },
+    {
+        "name": "何熙",
+        "position": "大司农",
+        "occurrences": 3
+    },
+    {
+        "name": "邓通",
+        "position": "近臣",
+        "occurrences": 0
+    },
+    {
+        "name": "邓骘",
+        "position": "车骑将军, 大将军",
+        "occurrences": 0
+    },
+    {
+        "name": "杨震",
+        "position": "荆州刺史, 东莱太守",
+        "occurrences": 0
+    },
+    {
+        "name": "王密",
+        "position": "昌邑令",
+        "occurrences": 1
+    },
+    {
+        "name": "张伯路",
+        "position": "海贼",
+        "occurrences": 0
+    },
+    {
+        "name": "王宗",
+        "position": "御史中丞",
+        "occurrences": 4
+    },
+    {
+        "name": "法雄",
+        "position": "青州刺史",
+        "occurrences": 5
+    },
+    {
+        "name": "耿种",
+        "position": "中郎将",
+        "occurrences": 3
+    },
+    {
+        "name": "耿夔",
+        "position": "辽东太守",
+        "occurrences": 2
+    },
+    {
+        "name": "李郃",
+        "position": "朝廷官员",
+        "occurrences": 1
+    },
+    {
+        "name": "陈禅",
+        "position": "朝廷官员",
+        "occurrences": 0
+    },
+    {
+        "name": "虞詡",
+        "position": "郎中",
+        "occurrences": 7
+    },
+    {
+        "name": "甯季",
+        "position": "朝歌贼",
+        "occurrences": 1
+    },
+    {
+        "name": "马稜",
+        "position": "河内太守",
+        "occurrences": 0
+    },
+    {
+        "name": "杜琦",
+        "position": "汉阳人",
+        "occurrences": 1
+    },
+    {
+        "name": "杜季貢",
+        "position": "汉阳人",
+        "occurrences": 5
+    },
+    {
+        "name": "王信",
+        "position": "汉阳人",
+        "occurrences": 3
+    },
+    {
+        "name": "杜习",
+        "position": "客",
+        "occurrences": 0
+    },
+    {
+        "name": "零昌",
+        "position": "滇零之子",
+        "occurrences": 4
+    },
+    {
+        "name": "狼莫",
+        "position": "同种",
+        "occurrences": 1
+    },
+    {
+        "name": "尹就",
+        "position": "中郎将",
+        "occurrences": 2
+    },
+    {
+        "name": "李久",
+        "position": "辽东人",
+        "occurrences": 1
+    },
+    {
+        "name": "仲光",
+        "position": "右扶风",
+        "occurrences": 1
+    },
+    {
+        "name": "马融",
+        "position": "校书郎中",
+        "occurrences": 0
+    },
+    {
+        "name": "虞詡",
+        "position": "武都太守",
+        "occurrences": 7
+    },
+    {
+        "name": "程信",
+        "position": "汉中五官掾",
+        "occurrences": 1
+    },
+    {
+        "name": "号多",
+        "position": "羌豪",
+        "occurrences": 0
+    },
+    {
+        "name": "段崇",
+        "position": "主簿",
+        "occurrences": 2
+    },
+    {
+        "name": "王宗",
+        "position": "门下史",
+        "occurrences": 4
+    },
+    {
+        "name": "原展",
+        "position": "门下史",
+        "occurrences": 1
+    },
+    {
+        "name": "杜习",
+        "position": "客",
+        "occurrences": 0
+    },
+    {
+        "name": "马英",
+        "position": "太仆, 太尉",
+        "occurrences": 0
+    },
+    {
+        "name": "閻氏",
+        "position": "皇后",
+        "occurrences": 1
+    },
+    {
+        "name": "李氏",
+        "position": "后宫",
+        "occurrences": 2
+    },
+    {
+        "name": "班雄",
+        "position": "屯骑校尉",
+        "occurrences": 2
+    },
+    {
+        "name": "马融",
+        "position": "校书郎中",
+        "occurrences": 0
+    },
+    {
+        "name": "马英",
+        "position": "太仆, 太尉",
+        "occurrences": 0
+    },
+    {
+        "name": "侯霸",
+        "position": "护羌校尉",
+        "occurrences": 5
+    },
+    {
+        "name": "马賢",
+        "position": "护羌校尉",
+        "occurrences": 0
+    },
+    {
+        "name": "王宗",
+        "position": "门下史",
+        "occurrences": 4
+    },
+    {
+        "name": "原展",
+        "position": "门下史",
+        "occurrences": 1
+    },
+    {
+        "name": "杜习",
+        "position": "客",
+        "occurrences": 0
+    },
+    {
+        "name": "马英",
+        "position": "太仆, 太尉",
+        "occurrences": 0
+    },
+    {
+        "name": "閻氏",
+        "position": "皇后",
+        "occurrences": 1
+    },
+    {
+        "name": "李氏",
+        "position": "后宫",
+        "occurrences": 2
+    },
+    {
+        "name": "班雄",
+        "position": "屯骑校尉",
+        "occurrences": 2
+    },
+    {
+        "name": "马融",
+        "position": "校书郎中",
+        "occurrences": 0
+    },
+    {
+        "name": "马英",
+        "position": "太仆, 太尉",
+        "occurrences": 0
+    },
+    {
+        "name": "侯霸",
+        "position": "护羌校尉",
+        "occurrences": 5
+    },
+    {
+        "name": "马賢",
+        "position": "护羌校尉",
+        "occurrences": 0
+    },
+    {
+        "name": "王宗",
+        "position": "门下史",
+        "occurrences": 4
+    },
+    {
+        "name": "原展",
+        "position": "门下史",
+        "occurrences": 1
+    },
+    {
+        "name": "杜习",
+        "position": "客",
+        "occurrences": 0
+    },
+    {
+        "name": "马英",
+        "position": "太仆, 太尉",
+        "occurrences": 0
+    },
+    {
+        "name": "閻氏",
+        "position": "皇后",
+        "occurrences": 1
+    },
+    {
+        "name": "李氏",
+        "position": "后宫",
+        "occurrences": 2
+    },
+    {
+        "name": "班雄",
+        "position": "屯骑校尉",
+        "occurrences": 2
+    },
+    {
+        "name": "马融",
+        "position": "校书郎中",
+        "occurrences": 0
+    },
+    {
+        "name": "马英",
+        "position": "太仆, 太尉",
+        "occurrences": 0
+    },
+    {
+        "name": "侯霸",
+        "position": "护羌校尉",
+        "occurrences": 5
+    },
+    {
+        "name": "马賢",
+        "position": "护羌校尉",
+        "occurrences": 0
+    }
+]

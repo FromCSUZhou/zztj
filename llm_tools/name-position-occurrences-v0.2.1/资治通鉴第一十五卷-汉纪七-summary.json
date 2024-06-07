@@ -1,0 +1,765 @@
+[
+    {
+        "name_1": "太宗孝文皇帝",
+        "position_1": "皇帝",
+        "occurrences": 1
+    },
+    {
+        "name_1": "贾谊",
+        "position_1": "大臣",
+        "occurrences": 2
+    },
+    {
+        "name_1": "淮阳王武",
+        "position_1": "淮阳王",
+        "occurrences": 2
+    },
+    {
+        "name_1": "代王参",
+        "position_1": "代王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "梁怀王揖",
+        "position_1": "梁怀王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "城阳王喜",
+        "position_1": "淮南王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "城阳王章",
+        "position_1": "城阳王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "齐悼惠王肥",
+        "position_1": "齐悼惠王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "颍川鼌错",
+        "name_2": "鼌错",
+        "position_1": "太子家令",
+        "occurrences": 2
+    },
+    {
+        "name_1": "孔颖达",
+        "position_1": "注释者",
+        "occurrences": 1
+    },
+    {
+        "name_1": "晋陈安",
+        "name_2": "陈安",
+        "position_1": "将领",
+        "occurrences": 2
+    },
+    {
+        "name_1": "应劭",
+        "position_1": "祝官",
+        "position_2": "东汉学者",
+        "position_3": "注释者",
+        "position_4": "评论者",
+        "occurrences": 7
+    },
+    {
+        "name_1": "师古",
+        "position_1": "评论者",
+        "position_2": "史学家",
+        "position_3": "注释者",
+        "position_4": "唐代学者",
+        "occurrences": 43
+    },
+    {
+        "name_1": "张晏",
+        "position_1": "注释者",
+        "position_2": "汉代学者",
+        "occurrences": 3
+    },
+    {
+        "name_1": "臣瓒",
+        "position_1": "注释者",
+        "occurrences": 2
+    },
+    {
+        "name_1": "帝",
+        "position_1": "皇帝",
+        "occurrences": 2
+    },
+    {
+        "name_1": "错",
+        "name_2": "鼌错",
+        "name_3": "晁错",
+        "position_1": "臣",
+        "position_2": "太子智囊",
+        "position_3": "内史",
+        "position_4": "大臣",
+        "occurrences": 18
+    },
+    {
+        "name_1": "服虔",
+        "position_1": "东汉学者",
+        "position_2": "注释者",
+        "occurrences": 3
+    },
+    {
+        "name_1": "孟康",
+        "position_1": "注释者",
+        "position_2": "汉代学者",
+        "occurrences": 5
+    },
+    {
+        "name_1": "如淳",
+        "position_1": "东汉学者",
+        "position_2": "注释者",
+        "occurrences": 5
+    },
+    {
+        "name_1": "仲冯",
+        "position_1": "注释者",
+        "occurrences": 2
+    },
+    {
+        "name_1": "陈胜",
+        "position_1": "农民起义领袖",
+        "occurrences": 1
+    },
+    {
+        "name_1": "皇帝",
+        "name_2": "陛下",
+        "position_1": "皇帝",
+        "occurrences": 2
+    },
+    {
+        "name_1": "贡父",
+        "position_1": "注释者",
+        "occurrences": 1
+    },
+    {
+        "name_1": "贾公彦",
+        "position_1": "注释者",
+        "occurrences": 1
+    },
+    {
+        "name_1": "沈约",
+        "position_1": "注释者",
+        "occurrences": 1
+    },
+    {
+        "name_1": "苏林",
+        "position_1": "注释者",
+        "occurrences": 2
+    },
+    {
+        "name_1": "鼂错",
+        "name_2": "错",
+        "name_3": "太子家令",
+        "name_4": "中大夫",
+        "position_1": "官员",
+        "position_2": "大臣",
+        "occurrences": 5
+    },
+    {
+        "name_1": "尧",
+        "position_1": "上古帝王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "汤",
+        "position_1": "商朝开国君主",
+        "occurrences": 2
+    },
+    {
+        "name_1": "禹",
+        "position_1": "夏朝开国君主",
+        "occurrences": 1
+    },
+    {
+        "name_1": "神农",
+        "position_1": "上古农耕始祖",
+        "occurrences": 1
+    },
+    {
+        "name_1": "颜师古",
+        "name_2": "师古",
+        "position_1": "唐代学者",
+        "occurrences": 17
+    },
+    {
+        "name_1": "汉景帝",
+        "name_2": "帝",
+        "name_3": "上",
+        "position_1": "天子",
+        "position_2": "皇帝",
+        "occurrences": 14
+    },
+    {
+        "name_1": "沛公",
+        "name_2": "刘邦",
+        "name_3": "太祖高皇帝",
+        "position_1": "皇帝",
+        "occurrences": 0
+    },
+    {
+        "name_1": "皇后",
+        "position_1": "皇后",
+        "occurrences": 1
+    },
+    {
+        "name_1": "淳于意",
+        "position_1": "齐太仓令",
+        "occurrences": 1
+    },
+    {
+        "name_1": "缇萦",
+        "position_1": "淳于意之女",
+        "occurrences": 1
+    },
+    {
+        "name_1": "天子",
+        "name_2": "汉文帝",
+        "position_1": "皇帝",
+        "occurrences": 1
+    },
+    {
+        "name_1": "张苍",
+        "position_1": "官员",
+        "position_2": "丞相",
+        "occurrences": 5
+    },
+    {
+        "name_1": "冯敬",
+        "position_1": "御史大夫",
+        "occurrences": 1
+    },
+    {
+        "name_1": "匈奴老上单于",
+        "position_1": "匈奴单于",
+        "occurrences": 1
+    },
+    {
+        "name_1": "北地都尉昂",
+        "name_2": "孙昂",
+        "position_1": "北地都尉",
+        "occurrences": 1
+    },
+    {
+        "name_1": "中尉周舍",
+        "position_1": "将军",
+        "occurrences": 1
+    },
+    {
+        "name_1": "郎中令张武",
+        "position_1": "将军",
+        "occurrences": 1
+    },
+    {
+        "name_1": "昌侯卢卿",
+        "position_1": "上郡将军",
+        "occurrences": 1
+    },
+    {
+        "name_1": "甯侯魏遫",
+        "position_1": "北地将军",
+        "occurrences": 1
+    },
+    {
+        "name_1": "隆虑侯周竈",
+        "position_1": "陇西将军",
+        "occurrences": 1
+    },
+    {
+        "name_1": "东阳侯张相如",
+        "position_1": "大将军",
+        "occurrences": 1
+    },
+    {
+        "name_1": "成侯董赤",
+        "position_1": "将军",
+        "occurrences": 2
+    },
+    {
+        "name_1": "内史栾布",
+        "position_1": "将军",
+        "occurrences": 1
+    },
+    {
+        "name_1": "冯唐",
+        "position_1": "郎署长",
+        "occurrences": 1
+    },
+    {
+        "name_1": "高祛",
+        "position_1": "尚食监",
+        "occurrences": 2
+    },
+    {
+        "name_1": "李齐",
+        "position_1": "赵将",
+        "occurrences": 1
+    },
+    {
+        "name_1": "廉颇",
+        "position_1": "赵将",
+        "occurrences": 5
+    },
+    {
+        "name_1": "李牧",
+        "position_1": "赵将",
+        "occurrences": 8
+    },
+    {
+        "name_1": "赵王迁",
+        "position_1": "赵王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "郭开",
+        "position_1": "赵国大臣",
+        "occurrences": 1
+    },
+    {
+        "name_1": "颜聚",
+        "position_1": "赵将",
+        "occurrences": 1
+    },
+    {
+        "name_1": "魏尚",
+        "position_1": "云中守",
+        "occurrences": 3
+    },
+    {
+        "name_1": "河间文王辟强",
+        "position_1": "王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "公孙臣",
+        "position_1": "博士",
+        "position_2": "鲁人",
+        "occurrences": 4
+    },
+    {
+        "name_1": "汉文帝",
+        "position_1": "皇帝",
+        "occurrences": 0
+    },
+    {
+        "name_1": "齐文王则",
+        "position_1": "齐王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "河间哀王福",
+        "position_1": "河间王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "哀王襄",
+        "position_1": "河间王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "悼惠王肥",
+        "position_1": "齐王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "辟强",
+        "position_1": "河间王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "赵幽王子遂",
+        "position_1": "赵王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "新垣平",
+        "position_1": "未知",
+        "position_2": "上大夫",
+        "position_3": "望气者",
+        "occurrences": 4
+    },
+    {
+        "name_1": "上",
+        "name_2": "汉文帝",
+        "position_1": "皇帝",
+        "occurrences": 5
+    },
+    {
+        "name_1": "韦昭",
+        "position_1": "史学家",
+        "occurrences": 1
+    },
+    {
+        "name_1": "淮南王喜",
+        "position_1": "城阳王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "杨虚侯将闾",
+        "position_1": "齐王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "安都侯志",
+        "position_1": "济北王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "武成侯贤",
+        "position_1": "菑川王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "白石侯雄渠",
+        "position_1": "胶东王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "平昌侯昂",
+        "position_1": "胶西王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "仂侯辟光",
+        "position_1": "济南王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "阜陵侯安",
+        "position_1": "淮南王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "安阳侯勃",
+        "position_1": "衡山王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "阳周侯赐",
+        "position_1": "庐江王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "张氏",
+        "name_2": "孝惠皇后",
+        "position_1": "皇后",
+        "occurrences": 3
+    },
+    {
+        "name_1": "张敖",
+        "position_1": "未知",
+        "occurrences": 1
+    },
+    {
+        "name_1": "朕",
+        "name_2": "汉文帝",
+        "position_1": "皇帝",
+        "occurrences": 2
+    },
+    {
+        "name_1": "代孝王参",
+        "position_1": "代王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "单于",
+        "position_1": "匈奴首领",
+        "occurrences": 1
+    },
+    {
+        "name_1": "窦广国",
+        "position_1": "皇后弟",
+        "occurrences": 1
+    },
+    {
+        "name_1": "高帝",
+        "name_2": "刘邦",
+        "position_1": "汉高祖皇帝",
+        "occurrences": 4
+    },
+    {
+        "name_1": "梁国申屠嘉",
+        "name_2": "申屠嘉",
+        "position_1": "御史大夫",
+        "occurrences": 2
+    },
+    {
+        "name_1": "邓通",
+        "position_1": "太中大夫",
+        "occurrences": 2
+    },
+    {
+        "name_1": "申屠嘉",
+        "name_2": "故安侯",
+        "position_1": "丞相",
+        "occurrences": 2
+    },
+    {
+        "name_1": "老上单于",
+        "position_1": "匈奴单于",
+        "occurrences": 1
+    },
+    {
+        "name_1": "军臣单于",
+        "position_1": "匈奴单于",
+        "occurrences": 1
+    },
+    {
+        "name_1": "令免",
+        "position_1": "车骑将军",
+        "occurrences": 1
+    },
+    {
+        "name_1": "苏意",
+        "position_1": "将军",
+        "occurrences": 1
+    },
+    {
+        "name_1": "张武",
+        "position_1": "将军",
+        "position_2": "受赂者",
+        "occurrences": 2
+    },
+    {
+        "name_1": "河内太守",
+        "name_2": "周亚夫",
+        "position_1": "将军",
+        "occurrences": 3
+    },
+    {
+        "name_1": "刘礼",
+        "name_2": "宗正",
+        "position_1": "将军",
+        "occurrences": 3
+    },
+    {
+        "name_1": "祝兹侯",
+        "name_2": "徐厉",
+        "position_1": "将军",
+        "occurrences": 5
+    },
+    {
+        "name_1": "军门都尉",
+        "position_1": "都尉",
+        "occurrences": 1
+    },
+    {
+        "name_1": "帝",
+        "name_2": "孝文皇帝",
+        "name_3": "文帝",
+        "name_4": "长子",
+        "position_1": "皇帝",
+        "occurrences": 25
+    },
+    {
+        "name_1": "袁盎",
+        "position_1": "群臣",
+        "occurrences": 1
+    },
+    {
+        "name_1": "太子",
+        "name_2": "皇太子",
+        "position_1": "皇帝",
+        "occurrences": 5
+    },
+    {
+        "name_1": "皇太后",
+        "name_2": "薄氏",
+        "position_1": "太皇太后",
+        "occurrences": 7
+    },
+    {
+        "name_1": "长沙王吴着",
+        "position_1": "长沙王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "吴芮",
+        "position_1": "长沙王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "成王臣",
+        "position_1": "长沙王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "共哀王回",
+        "position_1": "长沙王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "共王右",
+        "position_1": "长沙王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "孝景皇帝",
+        "name_2": "启",
+        "position_1": "皇帝",
+        "occurrences": 2
+    },
+    {
+        "name_1": "荀悦",
+        "position_1": "评论者",
+        "occurrences": 1
+    },
+    {
+        "name_1": "丞相嘉",
+        "name_2": "申屠嘉",
+        "position_1": "丞相",
+        "occurrences": 4
+    },
+    {
+        "name_1": "高祖",
+        "name_2": "高皇帝",
+        "position_1": "皇帝",
+        "occurrences": 3
+    },
+    {
+        "name_1": "颜",
+        "name_2": "贡父",
+        "position_1": "评论者",
+        "occurrences": 2
+    },
+    {
+        "name_1": "商祖甲",
+        "position_1": "祖",
+        "occurrences": 1
+    },
+    {
+        "name_1": "御史大夫青",
+        "name_2": "开封侯陶青",
+        "position_1": "御史大夫",
+        "occurrences": 2
+    },
+    {
+        "name_1": "陶舍",
+        "position_1": "功臣",
+        "occurrences": 1
+    },
+    {
+        "name_1": "周仁",
+        "position_1": "太中大夫",
+        "occurrences": 1
+    },
+    {
+        "name_1": "欧",
+        "name_2": "张欧",
+        "position_1": "廷尉",
+        "occurrences": 6
+    },
+    {
+        "name_1": "楚元王",
+        "position_1": "王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "平陆侯礼",
+        "name_2": "礼",
+        "position_1": "宗正",
+        "occurrences": 3
+    },
+    {
+        "name_1": "鼌错",
+        "position_1": "中大夫",
+        "occurrences": 1
+    },
+    {
+        "name_1": "武帝",
+        "position_1": "皇帝",
+        "occurrences": 1
+    },
+    {
+        "name_1": "德",
+        "position_1": "河间王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "阏",
+        "position_1": "临江王",
+        "occurrences": 2
+    },
+    {
+        "name_1": "余",
+        "position_1": "淮阳王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "非",
+        "position_1": "汝南王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "彭祖",
+        "position_1": "广川王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "发",
+        "position_1": "长沙王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "太皇太后薄氏",
+        "position_1": "太皇太后",
+        "occurrences": 1
+    },
+    {
+        "name_1": "开封侯",
+        "name_2": "陶青",
+        "position_1": "丞相",
+        "occurrences": 2
+    },
+    {
+        "name_1": "内史",
+        "name_2": "鼌错",
+        "position_1": "御史大夫",
+        "occurrences": 2
+    },
+    {
+        "name_1": "梁孝王",
+        "position_1": "梁王",
+        "occurrences": 1
+    },
+    {
+        "name_1": "窦太后",
+        "position_1": "太后",
+        "occurrences": 1
+    },
+    {
+        "name_1": "枚乘",
+        "position_1": "吴人",
+        "occurrences": 1
+    },
+    {
+        "name_1": "严忌",
+        "position_1": "吴人",
+        "occurrences": 2
+    },
+    {
+        "name_1": "羊胜",
+        "position_1": "齐人",
+        "occurrences": 1
+    },
+    {
+        "name_1": "公孙诡",
+        "position_1": "齐人",
+        "occurrences": 1
+    },
+    {
+        "name_1": "邹阳",
+        "position_1": "齐人",
+        "occurrences": 1
+    },
+    {
+        "name_1": "司马相如",
+        "position_1": "蜀人",
+        "occurrences": 1
+    }
+]

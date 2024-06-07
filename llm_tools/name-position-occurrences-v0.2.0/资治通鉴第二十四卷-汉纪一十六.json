@@ -1,0 +1,562 @@
+[
+    {
+        "name": "孝昭皇帝",
+        "position": "汉朝皇帝",
+        "occurrences": 8
+    },
+    {
+        "name": "广陵王胥",
+        "position": "汉朝广陵王",
+        "occurrences": 3
+    },
+    {
+        "name": "大将军光",
+        "position": "大将军",
+        "occurrences": 6
+    },
+    {
+        "name": "丞相敞",
+        "position": "丞相",
+        "occurrences": 2
+    },
+    {
+        "name": "少府乐成",
+        "position": "少府",
+        "occurrences": 1
+    },
+    {
+        "name": "宗正德",
+        "position": "宗正",
+        "occurrences": 2
+    },
+    {
+        "name": "光禄大夫吉",
+        "position": "光禄大夫",
+        "occurrences": 1
+    },
+    {
+        "name": "中郎将利汉",
+        "position": "中郎将",
+        "occurrences": 1
+    },
+    {
+        "name": "昌邑王贺",
+        "position": "昌邑王",
+        "occurrences": 1
+    },
+    {
+        "name": "右将军安世",
+        "position": "右将军",
+        "occurrences": 1
+    },
+    {
+        "name": "中尉琅邪王吉",
+        "position": "中尉",
+        "occurrences": 1
+    },
+    {
+        "name": "郎中令龚遂",
+        "position": "郎中令",
+        "occurrences": 0
+    },
+    {
+        "name": "丞相杨敞",
+        "position": "丞相",
+        "occurrences": 1
+    },
+    {
+        "name": "大司农田延年",
+        "position": "大司农",
+        "occurrences": 2
+    },
+    {
+        "name": "车骑将军张安世",
+        "position": "车骑将军",
+        "occurrences": 1
+    },
+    {
+        "name": "光禄大夫夏侯胜",
+        "position": "光禄大夫",
+        "occurrences": 0
+    },
+    {
+        "name": "侍中傅嘉",
+        "position": "侍中",
+        "occurrences": 1
+    },
+    {
+        "name": "尚书令",
+        "position": "尚书令",
+        "occurrences": 2
+    },
+    {
+        "name": "皇太后",
+        "position": "皇太后",
+        "occurrences": 17
+    },
+    {
+        "name": "御史大夫田广明",
+        "position": "御史大夫",
+        "occurrences": 2
+    },
+    {
+        "name": "御史大夫鲁国夏侯胜",
+        "position": "御史大夫",
+        "occurrences": 0
+    },
+    {
+        "name": "侍中中臣",
+        "position": "侍中",
+        "occurrences": 1
+    },
+    {
+        "name": "丞相蔡义",
+        "position": "丞相",
+        "occurrences": 0
+    },
+    {
+        "name": "九江太守",
+        "position": "九江太守",
+        "occurrences": 1
+    },
+    {
+        "name": "孝宣皇帝",
+        "position": "汉朝皇帝",
+        "occurrences": 1
+    },
+    {
+        "name": "昌邑哀王",
+        "position": "昌邑哀王",
+        "occurrences": 4
+    },
+    {
+        "name": "上官桀",
+        "position": "上官桀",
+        "occurrences": 1
+    },
+    {
+        "name": "太仆丞河东张敞",
+        "position": "太仆丞",
+        "occurrences": 1
+    },
+    {
+        "name": "侍御史严延年",
+        "position": "侍御史",
+        "occurrences": 1
+    },
+    {
+        "name": "许倢伃",
+        "position": "皇后",
+        "occurrences": 1
+    },
+    {
+        "name": "丞相韦贤",
+        "position": "丞相",
+        "occurrences": 0
+    },
+    {
+        "name": "大司农魏相",
+        "position": "大司农",
+        "occurrences": 1
+    },
+    {
+        "name": "京兆尹赵广汉",
+        "position": "京兆尹",
+        "occurrences": 0
+    },
+    {
+        "name": "霍光",
+        "position": "大将军",
+        "occurrences": 14
+    },
+    {
+        "name": "霍禹",
+        "position": "大司马",
+        "occurrences": 1
+    },
+    {
+        "name": "广川王去",
+        "position": "广川王",
+        "occurrences": 2
+    },
+    {
+        "name": "楚王延寿",
+        "position": "楚王",
+        "occurrences": 1
+    },
+    {
+        "name": "廷尉于定国",
+        "position": "廷尉",
+        "occurrences": 0
+    },
+    {
+        "name": "颍川太守",
+        "position": "颍川太守",
+        "occurrences": 1
+    },
+    {
+        "name": "祁连将军",
+        "position": "祁连将军",
+        "occurrences": 1
+    },
+    {
+        "name": "度辽将军范明友",
+        "position": "度辽将军",
+        "occurrences": 1
+    },
+    {
+        "name": "前将军韩增",
+        "position": "前将军",
+        "occurrences": 1
+    },
+    {
+        "name": "后将军赵充国",
+        "position": "后将军",
+        "occurrences": 1
+    },
+    {
+        "name": "虎牙将军田顺",
+        "position": "虎牙将军",
+        "occurrences": 0
+    },
+    {
+        "name": "校尉常惠",
+        "position": "校尉",
+        "occurrences": 1
+    },
+    {
+        "name": "丞相杨敞",
+        "position": "丞相",
+        "occurrences": 1
+    },
+    {
+        "name": "御史大夫田广明",
+        "position": "御史大夫",
+        "occurrences": 2
+    },
+    {
+        "name": "太仆杜延年",
+        "position": "太仆",
+        "occurrences": 1
+    },
+    {
+        "name": "乌孙昆弥",
+        "position": "乌孙昆弥",
+        "occurrences": 1
+    },
+    {
+        "name": "乌孙公主",
+        "position": "乌孙公主",
+        "occurrences": 2
+    },
+    {
+        "name": "乌孙肥王",
+        "position": "乌孙肥王",
+        "occurrences": 0
+    },
+    {
+        "name": "乌孙元贵靡",
+        "position": "乌孙元贵靡",
+        "occurrences": 0
+    },
+    {
+        "name": "乌孙万年",
+        "position": "乌孙万年",
+        "occurrences": 0
+    },
+    {
+        "name": "乌孙大乐",
+        "position": "乌孙大乐",
+        "occurrences": 0
+    },
+    {
+        "name": "龟兹王",
+        "position": "龟兹王",
+        "occurrences": 0
+    },
+    {
+        "name": "龟兹姑翼",
+        "position": "龟兹姑翼",
+        "occurrences": 0
+    },
+    {
+        "name": "楚王戊",
+        "position": "楚王",
+        "occurrences": 1
+    },
+    {
+        "name": "丞相蔡义",
+        "position": "丞相",
+        "occurrences": 0
+    },
+    {
+        "name": "皇后许氏",
+        "position": "皇后",
+        "occurrences": 1
+    },
+    {
+        "name": "许广汉",
+        "position": "昌成君",
+        "occurrences": 4
+    },
+    {
+        "name": "太皇太后",
+        "position": "太皇太后",
+        "occurrences": 3
+    },
+    {
+        "name": "丞相杨敞",
+        "position": "丞相",
+        "occurrences": 1
+    },
+    {
+        "name": "丞相蔡义",
+        "position": "丞相",
+        "occurrences": 0
+    },
+    {
+        "name": "大将军霍光",
+        "position": "大将军",
+        "occurrences": 1
+    },
+    {
+        "name": "大司马张安世",
+        "position": "大司马",
+        "occurrences": 0
+    },
+    {
+        "name": "丞相韦贤",
+        "position": "丞相",
+        "occurrences": 0
+    },
+    {
+        "name": "御史大夫魏相",
+        "position": "御史大夫",
+        "occurrences": 1
+    },
+    {
+        "name": "廷尉于定国",
+        "position": "廷尉",
+        "occurrences": 0
+    },
+    {
+        "name": "京兆尹赵广汉",
+        "position": "京兆尹",
+        "occurrences": 0
+    },
+    {
+        "name": "车骑将军张安世",
+        "position": "车骑将军",
+        "occurrences": 1
+    },
+    {
+        "name": "光禄大夫夏侯胜",
+        "position": "光禄大夫",
+        "occurrences": 0
+    },
+    {
+        "name": "侍中傅嘉",
+        "position": "侍中",
+        "occurrences": 1
+    },
+    {
+        "name": "尚书令",
+        "position": "尚书令",
+        "occurrences": 2
+    },
+    {
+        "name": "皇太后",
+        "position": "皇太后",
+        "occurrences": 17
+    },
+    {
+        "name": "御史大夫田广明",
+        "position": "御史大夫",
+        "occurrences": 2
+    },
+    {
+        "name": "御史大夫鲁国夏侯胜",
+        "position": "御史大夫",
+        "occurrences": 0
+    },
+    {
+        "name": "侍中中臣",
+        "position": "侍中",
+        "occurrences": 1
+    },
+    {
+        "name": "丞相蔡义",
+        "position": "丞相",
+        "occurrences": 0
+    },
+    {
+        "name": "九江太守",
+        "position": "九江太守",
+        "occurrences": 1
+    },
+    {
+        "name": "孝宣皇帝",
+        "position": "汉朝皇帝",
+        "occurrences": 1
+    },
+    {
+        "name": "昌邑哀王",
+        "position": "昌邑哀王",
+        "occurrences": 4
+    },
+    {
+        "name": "上官桀",
+        "position": "上官桀",
+        "occurrences": 1
+    },
+    {
+        "name": "太仆丞河东张敞",
+        "position": "太仆丞",
+        "occurrences": 1
+    },
+    {
+        "name": "侍御史严延年",
+        "position": "侍御史",
+        "occurrences": 1
+    },
+    {
+        "name": "许倢伃",
+        "position": "皇后",
+        "occurrences": 1
+    },
+    {
+        "name": "丞相韦贤",
+        "position": "丞相",
+        "occurrences": 0
+    },
+    {
+        "name": "大司农魏相",
+        "position": "大司农",
+        "occurrences": 1
+    },
+    {
+        "name": "京兆尹赵广汉",
+        "position": "京兆尹",
+        "occurrences": 0
+    },
+    {
+        "name": "霍光",
+        "position": "大将军",
+        "occurrences": 14
+    },
+    {
+        "name": "霍禹",
+        "position": "大司马",
+        "occurrences": 1
+    },
+    {
+        "name": "广川王去",
+        "position": "广川王",
+        "occurrences": 2
+    },
+    {
+        "name": "楚王延寿",
+        "position": "楚王",
+        "occurrences": 1
+    },
+    {
+        "name": "廷尉于定国",
+        "position": "廷尉",
+        "occurrences": 0
+    },
+    {
+        "name": "颍川太守",
+        "position": "颍川太守",
+        "occurrences": 1
+    },
+    {
+        "name": "祁连将军",
+        "position": "祁连将军",
+        "occurrences": 1
+    },
+    {
+        "name": "度辽将军范明友",
+        "position": "度辽将军",
+        "occurrences": 1
+    },
+    {
+        "name": "前将军韩增",
+        "position": "前将军",
+        "occurrences": 1
+    },
+    {
+        "name": "后将军赵充国",
+        "position": "后将军",
+        "occurrences": 1
+    },
+    {
+        "name": "虎牙将军田顺",
+        "position": "虎牙将军",
+        "occurrences": 0
+    },
+    {
+        "name": "校尉常惠",
+        "position": "校尉",
+        "occurrences": 1
+    },
+    {
+        "name": "丞相杨敞",
+        "position": "丞相",
+        "occurrences": 1
+    },
+    {
+        "name": "御史大夫田广明",
+        "position": "御史大夫",
+        "occurrences": 2
+    },
+    {
+        "name": "太仆杜延年",
+        "position": "太仆",
+        "occurrences": 1
+    },
+    {
+        "name": "乌孙昆弥",
+        "position": "乌孙昆弥",
+        "occurrences": 1
+    },
+    {
+        "name": "乌孙公主",
+        "position": "乌孙公主",
+        "occurrences": 2
+    },
+    {
+        "name": "乌孙肥王",
+        "position": "乌孙肥王",
+        "occurrences": 0
+    },
+    {
+        "name": "乌孙元贵靡",
+        "position": "乌孙元贵靡",
+        "occurrences": 0
+    },
+    {
+        "name": "乌孙万年",
+        "position": "乌孙万年",
+        "occurrences": 0
+    },
+    {
+        "name": "乌孙大乐",
+        "position": "乌孙大乐",
+        "occurrences": 0
+    },
+    {
+        "name": "龟兹王",
+        "position": "龟兹王",
+        "occurrences": 0
+    },
+    {
+        "name": "龟兹姑翼",
+        "position": "龟兹姑翼",
+        "occurrences": 0
+    },
+    {
+        "name": "楚王戊",
+        "position": "楚王",
+        "occurrences": 1
+    }
+]

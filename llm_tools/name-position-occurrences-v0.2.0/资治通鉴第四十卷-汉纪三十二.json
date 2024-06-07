@@ -1,0 +1,372 @@
+[
+    {
+        "name": "世祖光武皇帝",
+        "position": "皇帝",
+        "occurrences": 1
+    },
+    {
+        "name": "方望",
+        "position": "起事者",
+        "occurrences": 2
+    },
+    {
+        "name": "弓林",
+        "position": "起事者",
+        "occurrences": 1
+    },
+    {
+        "name": "嬰",
+        "position": "前定安公",
+        "occurrences": 1
+    },
+    {
+        "name": "鄧禹",
+        "position": "將軍",
+        "occurrences": 20
+    },
+    {
+        "name": "蘇茂",
+        "position": "討難將軍",
+        "occurrences": 7
+    },
+    {
+        "name": "李熊",
+        "position": "蜀郡功曹",
+        "occurrences": 2
+    },
+    {
+        "name": "公孫述",
+        "position": "成家帝",
+        "occurrences": 3
+    },
+    {
+        "name": "李恢",
+        "position": "大司空",
+        "occurrences": 0
+    },
+    {
+        "name": "李光",
+        "position": "大司馬",
+        "occurrences": 0
+    },
+    {
+        "name": "蕭王",
+        "position": "將軍",
+        "occurrences": 5
+    },
+    {
+        "name": "王豐",
+        "position": "騎將",
+        "occurrences": 1
+    },
+    {
+        "name": "吳漢",
+        "position": "將軍",
+        "occurrences": 10
+    },
+    {
+        "name": "陳俊",
+        "position": "強弩將軍",
+        "occurrences": 3
+    },
+    {
+        "name": "馮異",
+        "position": "將軍",
+        "occurrences": 9
+    },
+    {
+        "name": "李軼",
+        "position": "洛陽守將",
+        "occurrences": 3
+    },
+    {
+        "name": "朱鮪",
+        "position": "將軍",
+        "occurrences": 8
+    },
+    {
+        "name": "蘇茂",
+        "position": "將軍",
+        "occurrences": 7
+    },
+    {
+        "name": "賈彊",
+        "position": "將軍",
+        "occurrences": 1
+    },
+    {
+        "name": "寇恂",
+        "position": "河內守將",
+        "occurrences": 3
+    },
+    {
+        "name": "王匡",
+        "position": "將軍",
+        "occurrences": 9
+    },
+    {
+        "name": "王匡",
+        "position": "將軍",
+        "occurrences": 9
+    },
+    {
+        "name": "李松",
+        "position": "將軍",
+        "occurrences": 2
+    },
+    {
+        "name": "李況",
+        "position": "城門校尉",
+        "occurrences": 0
+    },
+    {
+        "name": "劉恭",
+        "position": "降者",
+        "occurrences": 8
+    },
+    {
+        "name": "劉盆子",
+        "position": "赤眉立帝",
+        "occurrences": 2
+    },
+    {
+        "name": "樊崇",
+        "position": "赤眉將軍",
+        "occurrences": 6
+    },
+    {
+        "name": "逢安",
+        "position": "赤眉將軍",
+        "occurrences": 3
+    },
+    {
+        "name": "謝祿",
+        "position": "赤眉將軍",
+        "occurrences": 6
+    },
+    {
+        "name": "鄧禹",
+        "position": "大司徒",
+        "occurrences": 20
+    },
+    {
+        "name": "王梁",
+        "position": "大司空",
+        "occurrences": 6
+    },
+    {
+        "name": "吳漢",
+        "position": "大司馬",
+        "occurrences": 10
+    },
+    {
+        "name": "伏湛",
+        "position": "平原太守",
+        "occurrences": 1
+    },
+    {
+        "name": "公乘歙",
+        "position": "左輔都尉",
+        "occurrences": 1
+    },
+    {
+        "name": "劉茂",
+        "position": "厭新將軍",
+        "occurrences": 1
+    },
+    {
+        "name": "景丹",
+        "position": "驃騎大將軍",
+        "occurrences": 3
+    },
+    {
+        "name": "耿弇",
+        "position": "建威大將軍",
+        "occurrences": 4
+    },
+    {
+        "name": "陳俊",
+        "position": "強弩將軍",
+        "occurrences": 3
+    },
+    {
+        "name": "劉秀",
+        "position": "皇帝",
+        "occurrences": 1
+    },
+    {
+        "name": "延岑",
+        "position": "反者",
+        "occurrences": 6
+    },
+    {
+        "name": "王常",
+        "position": "降者",
+        "occurrences": 3
+    },
+    {
+        "name": "蓋延",
+        "position": "虎牙大將軍",
+        "occurrences": 2
+    },
+    {
+        "name": "馬武",
+        "position": "駙馬都尉",
+        "occurrences": 2
+    },
+    {
+        "name": "劉永",
+        "position": "反者",
+        "occurrences": 4
+    },
+    {
+        "name": "蘇茂",
+        "position": "反者",
+        "occurrences": 7
+    },
+    {
+        "name": "潘蹇",
+        "position": "淮陽太守",
+        "occurrences": 1
+    },
+    {
+        "name": "王豐",
+        "position": "騎將",
+        "occurrences": 1
+    },
+    {
+        "name": "吳漢",
+        "position": "將軍",
+        "occurrences": 10
+    },
+    {
+        "name": "陳俊",
+        "position": "將軍",
+        "occurrences": 3
+    },
+    {
+        "name": "馮異",
+        "position": "將軍",
+        "occurrences": 9
+    },
+    {
+        "name": "李松",
+        "position": "將軍",
+        "occurrences": 2
+    },
+    {
+        "name": "李況",
+        "position": "城門校尉",
+        "occurrences": 0
+    },
+    {
+        "name": "劉恭",
+        "position": "降者",
+        "occurrences": 8
+    },
+    {
+        "name": "劉盆子",
+        "position": "赤眉立帝",
+        "occurrences": 2
+    },
+    {
+        "name": "樊崇",
+        "position": "赤眉將軍",
+        "occurrences": 6
+    },
+    {
+        "name": "逢安",
+        "position": "赤眉將軍",
+        "occurrences": 3
+    },
+    {
+        "name": "謝祿",
+        "position": "赤眉將軍",
+        "occurrences": 6
+    },
+    {
+        "name": "鄧禹",
+        "position": "大司徒",
+        "occurrences": 20
+    },
+    {
+        "name": "王梁",
+        "position": "大司空",
+        "occurrences": 6
+    },
+    {
+        "name": "吳漢",
+        "position": "大司馬",
+        "occurrences": 10
+    },
+    {
+        "name": "伏湛",
+        "position": "平原太守",
+        "occurrences": 1
+    },
+    {
+        "name": "公乘歙",
+        "position": "左輔都尉",
+        "occurrences": 1
+    },
+    {
+        "name": "劉茂",
+        "position": "厭新將軍",
+        "occurrences": 1
+    },
+    {
+        "name": "景丹",
+        "position": "驃騎大將軍",
+        "occurrences": 3
+    },
+    {
+        "name": "耿弇",
+        "position": "建威大將軍",
+        "occurrences": 4
+    },
+    {
+        "name": "陳俊",
+        "position": "強弩將軍",
+        "occurrences": 3
+    },
+    {
+        "name": "劉秀",
+        "position": "皇帝",
+        "occurrences": 1
+    },
+    {
+        "name": "延岑",
+        "position": "反者",
+        "occurrences": 6
+    },
+    {
+        "name": "王常",
+        "position": "降者",
+        "occurrences": 3
+    },
+    {
+        "name": "蓋延",
+        "position": "虎牙大將軍",
+        "occurrences": 2
+    },
+    {
+        "name": "馬武",
+        "position": "駙馬都尉",
+        "occurrences": 2
+    },
+    {
+        "name": "劉永",
+        "position": "反者",
+        "occurrences": 4
+    },
+    {
+        "name": "蘇茂",
+        "position": "反者",
+        "occurrences": 7
+    },
+    {
+        "name": "潘蹇",
+        "position": "淮陽太守",
+        "occurrences": 1
+    }
+]

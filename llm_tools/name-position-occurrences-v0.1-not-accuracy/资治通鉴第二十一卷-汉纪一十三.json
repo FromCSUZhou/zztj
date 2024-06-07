@@ -1,0 +1,252 @@
+[
+    {
+        "name": "世宗孝武皇帝",
+        "occurrences": 1,
+        "position": "皇帝"
+    },
+    {
+        "name": "公孙卿",
+        "occurrences": 6,
+        "position": "中大夫"
+    },
+    {
+        "name": "汲仁",
+        "occurrences": 1,
+        "position": "卿"
+    },
+    {
+        "name": "郭昌",
+        "occurrences": 3,
+        "position": "卿"
+    },
+    {
+        "name": "公孙遂",
+        "occurrences": 1,
+        "position": "济南太守"
+    },
+    {
+        "name": "全燕",
+        "occurrences": 1,
+        "position": "世"
+    },
+    {
+        "name": "卢绾",
+        "occurrences": 1,
+        "position": "燕王"
+    },
+    {
+        "name": "卫满",
+        "occurrences": 1,
+        "position": "燕人"
+    },
+    {
+        "name": "右渠",
+        "occurrences": 5,
+        "position": "朝鲜王"
+    },
+    {
+        "name": "涉何",
+        "occurrences": 1,
+        "position": "汉使"
+    },
+    {
+        "name": "杜周",
+        "occurrences": 1,
+        "position": "御史中丞"
+    },
+    {
+        "name": "赵破奴",
+        "occurrences": 3,
+        "position": "将军"
+    },
+    {
+        "name": "王恢",
+        "occurrences": 1,
+        "position": "浩侯"
+    },
+    {
+        "name": "王然于",
+        "occurrences": 1,
+        "position": "汉使"
+    },
+    {
+        "name": "郭昌",
+        "occurrences": 2,
+        "position": "将军"
+    },
+    {
+        "name": "卫广",
+        "occurrences": 1,
+        "position": "中郎将"
+    },
+    {
+        "name": "荀彘",
+        "occurrences": 1,
+        "position": "左将军"
+    },
+    {
+        "name": "路人",
+        "occurrences": 2,
+        "position": "朝鲜相"
+    },
+    {
+        "name": "韩阴",
+        "occurrences": 1,
+        "position": "朝鲜相"
+    },
+    {
+        "name": "尼溪参",
+        "occurrences": 2,
+        "position": "尼溪相"
+    },
+    {
+        "name": "王唊",
+        "occurrences": 1,
+        "position": "将军"
+    },
+    {
+        "name": "成己",
+        "occurrences": 1,
+        "position": "大臣"
+    },
+    {
+        "name": "长",
+        "occurrences": 1,
+        "position": "右渠子"
+    },
+    {
+        "name": "最",
+        "occurrences": 1,
+        "position": "路人之子"
+    },
+    {
+        "name": "南阳杜周",
+        "occurrences": 1,
+        "position": "廷尉"
+    },
+    {
+        "name": "赵破奴",
+        "occurrences": 1,
+        "position": "浞野侯"
+    },
+    {
+        "name": "张德",
+        "occurrences": 1,
+        "position": "九卿"
+    },
+    {
+        "name": "范昆",
+        "occurrences": 1,
+        "position": "光禄大夫"
+    },
+    {
+        "name": "徐自为",
+        "occurrences": 1,
+        "position": "光禄勋"
+    },
+    {
+        "name": "王卿",
+        "occurrences": 1,
+        "position": "济南太守"
+    },
+    {
+        "name": "王温舒",
+        "occurrences": 1,
+        "position": "中尉"
+    },
+    {
+        "name": "延广",
+        "occurrences": 1,
+        "position": "御史大夫"
+    },
+    {
+        "name": "苏武",
+        "occurrences": 1,
+        "position": "中郎将"
+    },
+    {
+        "name": "张胜",
+        "occurrences": 1,
+        "position": "副中郎将"
+    },
+    {
+        "name": "常惠",
+        "occurrences": 1,
+        "position": "假吏"
+    },
+    {
+        "name": "缑王",
+        "occurrences": 1,
+        "position": "匈奴"
+    },
+    {
+        "name": "长水虞常",
+        "occurrences": 1,
+        "position": "匈奴"
+    },
+    {
+        "name": "卫律",
+        "occurrences": 1,
+        "position": "丁灵王"
+    },
+    {
+        "name": "左伊秩訾",
+        "occurrences": 1,
+        "position": "匈奴官"
+    },
+    {
+        "name": "李广",
+        "occurrences": 1,
+        "position": "侍中"
+    },
+    {
+        "name": "陵",
+        "occurrences": 1,
+        "position": "骑都尉"
+    },
+    {
+        "name": "王申生",
+        "occurrences": 1,
+        "position": "校尉"
+    },
+    {
+        "name": "上官桀",
+        "occurrences": 1,
+        "position": "搜粟都尉"
+    },
+    {
+        "name": "陇西赵充国",
+        "occurrences": 1,
+        "position": "假司马"
+    },
+    {
+        "name": "韩说",
+        "occurrences": 1,
+        "position": "游击将军"
+    },
+    {
+        "name": "卫伉",
+        "occurrences": 1,
+        "position": "长平侯"
+    },
+    {
+        "name": "路博德",
+        "occurrences": 2,
+        "position": "强弩都尉"
+    },
+    {
+        "name": "陈步乐",
+        "occurrences": 1,
+        "position": "校尉"
+    },
+    {
+        "name": "韩延年",
+        "occurrences": 1,
+        "position": "成安侯"
+    },
+    {
+        "name": "管敢",
+        "occurrences": 1,
+        "position": "军候"
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+        "name": "世宗孝武皇帝",
+        "position": "皇帝",
+        "occurrences": 1
+    },
+    {
+        "name": "王卿",
+        "position": "不明，因有罪自杀",
+        "occurrences": 1
+    },
+    {
+        "name": "杜周",
+        "position": "御史大夫",
+        "occurrences": 2
+    },
+    {
+        "name": "公孙卿",
+        "position": "方士",
+        "occurrences": 1
+    },
+    {
+        "name": "李广利",
+        "position": "贰师将军",
+        "occurrences": 2
+    },
+    {
+        "name": "路博德",
+        "position": "强弩都尉",
+        "occurrences": 1
+    },
+    {
+        "name": "韩说",
+        "position": "游击将军",
+        "occurrences": 2
+    },
+    {
+        "name": "公孙敖",
+        "position": "因杅将军",
+        "occurrences": 2
+    },
+    {
+        "name": "李陵",
+        "position": "汉将",
+        "occurrences": 3
+    },
+    {
+        "name": "李绪",
+        "position": "降匈奴者",
+        "occurrences": 1
+    },
+    {
+        "name": "大阏氏",
+        "position": "单于之母",
+        "occurrences": 3
+    },
+    {
+        "name": "卫律",
+        "position": "贵用事",
+        "occurrences": 5
+    },
+    {
+        "name": "髆",
+        "position": "昌邑王",
+        "occurrences": 6
+    },
+    {
+        "name": "公孙敖",
+        "position": "因杅将军，后因妻为巫蛊被斩",
+        "occurrences": 2
+    },
+    {
+        "name": "杜周",
+        "position": "御史大夫",
+        "occurrences": 2
+    },
+    {
+        "name": "暴胜之",
+        "position": "光禄大夫，后为御史大夫",
+        "occurrences": 2
+    },
+    {
+        "name": "白公",
+        "position": "赵中大夫",
+        "occurrences": 1
+    },
+    {
+        "name": "弗陵",
+        "position": "皇子",
+        "occurrences": 4
+    },
+    {
+        "name": "赵倢伃",
+        "position": "弗陵之母",
+        "occurrences": 1
+    },
+    {
+        "name": "江充",
+        "position": "水衡都尉",
+        "occurrences": 10
+    },
+    {
+        "name": "贰师将军",
+        "position": "将军",
+        "occurrences": 4
+    },
+    {
+        "name": "刘屈氂",
+        "position": "丞相",
+        "occurrences": 2
+    },
+    {
+        "name": "长平侯伉",
+        "position": "皇后弟子",
+        "occurrences": 2
+    },
+    {
+        "name": "霍光",
+        "position": "奉车都尉、光禄大夫，后为大司马、大将军",
+        "occurrences": 3
+    },
+    {
+        "name": "金日磾",
+        "position": "车骑将军",
+        "occurrences": 3
+    },
+    {
+        "name": "上官桀",
+        "position": "太仆，后为左将军",
+        "occurrences": 3
+    },
+    {
+        "name": "桑弘羊",
+        "position": "搜粟都尉，后为御史大夫",
+        "occurrences": 2
+    },
+    {
+        "name": "赵过",
+        "position": "搜粟都尉",
+        "occurrences": 2
+    },
+    {
+        "name": "公孙勇",
+        "position": "故城父令",
+        "occurrences": 2
+    },
+    {
+        "name": "田千秋",
+        "position": "高寝郎，后为大鸿胪",
+        "occurrences": 4
+    },
+    {
+        "name": "刘敢",
+        "position": "执金吾",
+        "occurrences": 1
+    },
+    {
+        "name": "刘长",
+        "position": "宗正",
+        "occurrences": 1
+    },
+    {
+        "name": "如侯",
+        "position": "长安囚",
+        "occurrences": 4
+    },
+    {
+        "name": "马通",
+        "position": "侍郎",
+        "occurrences": 6
+    },
+    {
+        "name": "商丘成",
+        "position": "大鸿胪",
+        "occurrences": 6
+    },
+    {
+        "name": "张光",
+        "position": "宾客",
+        "occurrences": 2
+    },
+    {
+        "name": "张富昌",
+        "position": "山阳男子",
+        "occurrences": 2
+    },
+    {
+        "name": "李寿",
+        "position": "新安令史",
+        "occurrences": 2
+    },
+    {
+        "name": "匈奴单于",
+        "position": "匈奴单于",
+        "occurrences": 1
+    },
+    {
+        "name": "李广利",
+        "position": "贰师将军",
+        "occurrences": 2
+    },
+    {
+        "name": "李广",
+        "position": "将军",
+        "occurrences": 2
+    },
+    {
+        "name": "胡亚夫",
+        "position": "贰师将军掾",
+        "occurrences": 1
+    },
+    {
+        "name": "卫律",
+        "position": "贵用事",
+        "occurrences": 5
+    },
+    {
+        "name": "公孙勇",
+        "position": "故城父令",
+        "occurrences": 2
+    },
+    {
+        "name": "魏不害",
+        "position": "圉守尉",
+        "occurrences": 1
+    },
+    {
+        "name": "田广明",
+        "position": "淮阳太守",
+        "occurrences": 1
+    },
+    {
+        "name": "霍光",
+        "position": "大司马、大将军",
+        "occurrences": 3
+    },
+    {
+        "name": "金日磾",
+        "position": "车骑将军",
+        "occurrences": 3
+    },
+    {
+        "name": "上官桀",
+        "position": "左将军",
+        "occurrences": 3
+    },
+    {
+        "name": "桑弘羊",
+        "position": "御史大夫",
+        "occurrences": 2
+    },
+    {
+        "name": "霍光",
+        "position": "大司马、大将军",
+        "occurrences": 3
+    },
+    {
+        "name": "金日磾",
+        "position": "车骑将军",
+        "occurrences": 3
+    },
+    {
+        "name": "上官桀",
+        "position": "左将军",
+        "occurrences": 3
+    },
+    {
+        "name": "桑弘羊",
+        "position": "御史大夫",
+        "occurrences": 2
+    },
+    {
+        "name": "霍光",
+        "position": "大司马、大将军",
+        "occurrences": 3
+    },
+    {
+        "name": "金日磾",
+        "position": "车骑将军",
+        "occurrences": 3
+    },
+    {
+        "name": "上官桀",
+        "position": "左将军",
+        "occurrences": 3
+    },
+    {
+        "name": "桑弘羊",
+        "position": "御史大夫",
+        "occurrences": 2
+    }
+]

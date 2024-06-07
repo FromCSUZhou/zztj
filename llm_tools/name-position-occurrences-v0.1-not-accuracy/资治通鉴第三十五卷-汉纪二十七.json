@@ -1,0 +1,322 @@
+[
+    {
+        "name": "孝哀皇帝",
+        "occurrences": 3,
+        "position": "皇帝"
+    },
+    {
+        "name": "嘉",
+        "occurrences": 3,
+        "position": "丞相"
+    },
+    {
+        "name": "孔光",
+        "occurrences": 5,
+        "position": "太傅"
+    },
+    {
+        "name": "丁明",
+        "occurrences": 2,
+        "position": "大司馬、衛將軍"
+    },
+    {
+        "name": "董賢",
+        "occurrences": 8,
+        "position": "駙馬都尉、大司馬、衛將軍"
+    },
+    {
+        "name": "王莽",
+        "occurrences": 12,
+        "position": "大司馬、新都侯、安漢公"
+    },
+    {
+        "name": "甄豐",
+        "occurrences": 3,
+        "position": "左將軍、光祿勳、大司空"
+    },
+    {
+        "name": "甄邯",
+        "occurrences": 3,
+        "position": "侍中、奉車都尉、右將軍"
+    },
+    {
+        "name": "彭宣",
+        "occurrences": 2,
+        "position": "大司空、長平侯"
+    },
+    {
+        "name": "何武",
+        "occurrences": 2,
+        "position": "前將軍"
+    },
+    {
+        "name": "公孫祿",
+        "occurrences": 1,
+        "position": "左將軍"
+    },
+    {
+        "name": "王舜",
+        "occurrences": 2,
+        "position": "車騎將軍、安陽侯"
+    },
+    {
+        "name": "孔鄉侯傅晏",
+        "occurrences": 1,
+        "position": "大司馬、衛將軍"
+    },
+    {
+        "name": "陽安侯丁明",
+        "occurrences": 1,
+        "position": "大司馬、票騎將軍"
+    },
+    {
+        "name": "前涼州刺史杜鄴",
+        "occurrences": 1,
+        "position": "前涼州刺史"
+    },
+    {
+        "name": "孔光",
+        "occurrences": 1,
+        "position": "光祿大夫"
+    },
+    {
+        "name": "平阿侯仁",
+        "occurrences": 1,
+        "position": "平阿侯"
+    },
+    {
+        "name": "鮑宣",
+        "occurrences": 1,
+        "position": "司隸"
+    },
+    {
+        "name": "傅太后",
+        "occurrences": 1,
+        "position": "太皇太后"
+    },
+    {
+        "name": "息夫躬",
+        "occurrences": 1,
+        "position": "丞相"
+    },
+    {
+        "name": "孫寵",
+        "occurrences": 1,
+        "position": "官職不詳"
+    },
+    {
+        "name": "皇太太后傅氏",
+        "occurrences": 1,
+        "position": "皇太太后"
+    },
+    {
+        "name": "王嘉",
+        "occurrences": 2,
+        "position": "官職不詳"
+    },
+    {
+        "name": "梁相",
+        "occurrences": 1,
+        "position": "廷尉"
+    },
+    {
+        "name": "鞫譚",
+        "occurrences": 1,
+        "position": "尚書令"
+    },
+    {
+        "name": "宗伯鳳",
+        "occurrences": 1,
+        "position": "僕射"
+    },
+    {
+        "name": "王嘉",
+        "occurrences": 1,
+        "position": "丞相"
+    },
+    {
+        "name": "孔光",
+        "occurrences": 1,
+        "position": "光祿大夫"
+    },
+    {
+        "name": "孔鄉侯",
+        "occurrences": 1,
+        "position": "侯"
+    },
+    {
+        "name": "汝昌侯",
+        "occurrences": 1,
+        "position": "侯"
+    },
+    {
+        "name": "陽信侯鄭業",
+        "occurrences": 1,
+        "position": "陽信侯"
+    },
+    {
+        "name": "大司馬丁明",
+        "occurrences": 1,
+        "position": "大司馬"
+    },
+    {
+        "name": "大司馬韋賞",
+        "occurrences": 1,
+        "position": "大司馬、車騎將軍"
+    },
+    {
+        "name": "侍中董賢",
+        "occurrences": 1,
+        "position": "侍中、駙馬都尉"
+    },
+    {
+        "name": "衛尉恭",
+        "occurrences": 1,
+        "position": "衛尉"
+    },
+    {
+        "name": "寬信",
+        "occurrences": 1,
+        "position": "駙馬都尉"
+    },
+    {
+        "name": "孔子",
+        "occurrences": 1,
+        "position": "儒家始祖"
+    },
+    {
+        "name": "孔鄉侯晏",
+        "occurrences": 1,
+        "position": "孔鄉侯"
+    },
+    {
+        "name": "陽新侯",
+        "occurrences": 1,
+        "position": "侯"
+    },
+    {
+        "name": "王嘉",
+        "occurrences": 1,
+        "position": "丞相"
+    },
+    {
+        "name": "孔光",
+        "occurrences": 1,
+        "position": "丞相"
+    },
+    {
+        "name": "彭宣",
+        "occurrences": 1,
+        "position": "光祿大夫"
+    },
+    {
+        "name": "司隸鮑宣",
+        "occurrences": 1,
+        "position": "司隸"
+    },
+    {
+        "name": "大司馬丁明",
+        "occurrences": 1,
+        "position": "大司馬"
+    },
+    {
+        "name": "故定陶太傅韋賞",
+        "occurrences": 1,
+        "position": "大司馬、車騎將軍"
+    },
+    {
+        "name": "侍中董賢",
+        "occurrences": 1,
+        "position": "大司馬、衛將軍"
+    },
+    {
+        "name": "孔光",
+        "occurrences": 1,
+        "position": "太傅"
+    },
+    {
+        "name": "安漢公莽",
+        "occurrences": 1,
+        "position": "大司馬、安漢公"
+    },
+    {
+        "name": "左將軍甄豐",
+        "occurrences": 1,
+        "position": "大司空"
+    },
+    {
+        "name": "右將軍孫建",
+        "occurrences": 1,
+        "position": "左將軍"
+    },
+    {
+        "name": "光祿勳甄邯",
+        "occurrences": 1,
+        "position": "右將軍"
+    },
+    {
+        "name": "孝平皇帝",
+        "occurrences": 1,
+        "position": "皇帝"
+    },
+    {
+        "name": "申屠剛",
+        "occurrences": 1,
+        "position": "郡功曹"
+    },
+    {
+        "name": "大司空彭宣",
+        "occurrences": 1,
+        "position": "大司空"
+    },
+    {
+        "name": "甄豐",
+        "occurrences": 1,
+        "position": "左將軍"
+    },
+    {
+        "name": "甄邯",
+        "occurrences": 1,
+        "position": "右將軍"
+    },
+    {
+        "name": "大司空王崇",
+        "occurrences": 1,
+        "position": "大司空"
+    },
+    {
+        "name": "光祿大夫楚國龔勝",
+        "occurrences": 1,
+        "position": "光祿大夫"
+    },
+    {
+        "name": "太中大夫琅邪邴漢",
+        "occurrences": 1,
+        "position": "太中大夫"
+    },
+    {
+        "name": "梅福",
+        "occurrences": 1,
+        "position": "官職不詳"
+    },
+    {
+        "name": "執金吾候陳茂",
+        "occurrences": 1,
+        "position": "執金吾候"
+    },
+    {
+        "name": "左將軍甄豐",
+        "occurrences": 1,
+        "position": "大司空"
+    },
+    {
+        "name": "右將軍孫建",
+        "occurrences": 1,
+        "position": "左將軍"
+    },
+    {
+        "name": "光祿勳甄邯",
+        "occurrences": 1,
+        "position": "右將軍"
+    }
+]

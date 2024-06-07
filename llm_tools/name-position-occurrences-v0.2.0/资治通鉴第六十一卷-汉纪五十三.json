@@ -1,0 +1,312 @@
+[
+    {
+        "name": "孝献皇帝",
+        "position": "皇帝",
+        "occurrences": 0
+    },
+    {
+        "name": "王夫人",
+        "position": "灵怀皇后",
+        "occurrences": 2
+    },
+    {
+        "name": "陶谦",
+        "position": "徐州牧",
+        "occurrences": 0
+    },
+    {
+        "name": "田楷",
+        "position": "官员",
+        "occurrences": 1
+    },
+    {
+        "name": "刘备",
+        "position": "平原相、豫州刺史",
+        "occurrences": 0
+    },
+    {
+        "name": "曹操",
+        "position": "兗州牧",
+        "occurrences": 16
+    },
+    {
+        "name": "马腾",
+        "position": "安狄将军",
+        "occurrences": 0
+    },
+    {
+        "name": "李傕",
+        "position": "车骑将军",
+        "occurrences": 11
+    },
+    {
+        "name": "韩遂",
+        "position": "将军",
+        "occurrences": 0
+    },
+    {
+        "name": "种卲",
+        "position": "谏议大夫",
+        "occurrences": 1
+    },
+    {
+        "name": "马宇",
+        "position": "侍中",
+        "occurrences": 0
+    },
+    {
+        "name": "刘範",
+        "position": "左中郎将",
+        "occurrences": 0
+    },
+    {
+        "name": "樊稠",
+        "position": "右将军",
+        "occurrences": 6
+    },
+    {
+        "name": "郭汜",
+        "position": "后将军",
+        "occurrences": 19
+    },
+    {
+        "name": "荀彧",
+        "position": "司马",
+        "occurrences": 5
+    },
+    {
+        "name": "程昱",
+        "position": "寿张令",
+        "occurrences": 3
+    },
+    {
+        "name": "张邈",
+        "position": "陈留太守",
+        "occurrences": 0
+    },
+    {
+        "name": "吕布",
+        "position": "兗州牧",
+        "occurrences": 0
+    },
+    {
+        "name": "夏侯惇",
+        "position": "东郡太守",
+        "occurrences": 1
+    },
+    {
+        "name": "郭貢",
+        "position": "豫州刺史",
+        "occurrences": 2
+    },
+    {
+        "name": "高柔",
+        "position": "陈留人",
+        "occurrences": 1
+    },
+    {
+        "name": "高幹",
+        "position": "高柔从兄",
+        "occurrences": 1
+    },
+    {
+        "name": "陈宫",
+        "position": "从事中郎",
+        "occurrences": 0
+    },
+    {
+        "name": "许汜",
+        "position": "官员",
+        "occurrences": 0
+    },
+    {
+        "name": "王楷",
+        "position": "官员",
+        "occurrences": 1
+    },
+    {
+        "name": "刘翊",
+        "position": "官员",
+        "occurrences": 0
+    },
+    {
+        "name": "靳允",
+        "position": "范县令",
+        "occurrences": 0
+    },
+    {
+        "name": "氾嶷",
+        "position": "官员",
+        "occurrences": 1
+    },
+    {
+        "name": "棗袛",
+        "position": "东阿令",
+        "occurrences": 1
+    },
+    {
+        "name": "孙策",
+        "position": "怀义校尉",
+        "occurrences": 0
+    },
+    {
+        "name": "袁术",
+        "position": "九江太守",
+        "occurrences": 0
+    },
+    {
+        "name": "周瑜",
+        "position": "舒人",
+        "occurrences": 3
+    },
+    {
+        "name": "吴景",
+        "position": "丹阳太守",
+        "occurrences": 0
+    },
+    {
+        "name": "孙贲",
+        "position": "丹阳都尉",
+        "occurrences": 0
+    },
+    {
+        "name": "吕範",
+        "position": "汝南人",
+        "occurrences": 0
+    },
+    {
+        "name": "孙河",
+        "position": "族人",
+        "occurrences": 0
+    },
+    {
+        "name": "刘繇",
+        "position": "扬州刺史",
+        "occurrences": 0
+    },
+    {
+        "name": "惠衢",
+        "position": "扬州刺史",
+        "occurrences": 1
+    },
+    {
+        "name": "种辑",
+        "position": "侍中",
+        "occurrences": 0
+    },
+    {
+        "name": "董承",
+        "position": "安集将军",
+        "occurrences": 12
+    },
+    {
+        "name": "赵温",
+        "position": "司徒",
+        "occurrences": 0
+    },
+    {
+        "name": "李乐",
+        "position": "白波贼帅",
+        "occurrences": 0
+    },
+    {
+        "name": "韩暹",
+        "position": "白波贼帅",
+        "occurrences": 0
+    },
+    {
+        "name": "胡才",
+        "position": "白波贼帅",
+        "occurrences": 3
+    },
+    {
+        "name": "去卑",
+        "position": "南匈奴右贤王",
+        "occurrences": 1
+    },
+    {
+        "name": "沮儁",
+        "position": "射声校尉",
+        "occurrences": 1
+    },
+    {
+        "name": "杨彪",
+        "position": "太尉",
+        "occurrences": 0
+    },
+    {
+        "name": "张义",
+        "position": "大司农",
+        "occurrences": 0
+    },
+    {
+        "name": "杨定",
+        "position": "后将军",
+        "occurrences": 0
+    },
+    {
+        "name": "段煨",
+        "position": "宁辑将军",
+        "occurrences": 2
+    },
+    {
+        "name": "管郃",
+        "position": "司隶校尉",
+        "occurrences": 1
+    },
+    {
+        "name": "张超",
+        "position": "广陵太守",
+        "occurrences": 0
+    },
+    {
+        "name": "臧洪",
+        "position": "东郡太守",
+        "occurrences": 7
+    },
+    {
+        "name": "陈琳",
+        "position": "官员",
+        "occurrences": 0
+    },
+    {
+        "name": "公孙瓚",
+        "position": "幽州牧",
+        "occurrences": 0
+    },
+    {
+        "name": "刘虞",
+        "position": "官员",
+        "occurrences": 0
+    },
+    {
+        "name": "鲜于輔",
+        "position": "漁陽人",
+        "occurrences": 0
+    },
+    {
+        "name": "阎柔",
+        "position": "烏桓司馬",
+        "occurrences": 0
+    },
+    {
+        "name": "鄒丹",
+        "position": "漁陽太守",
+        "occurrences": 1
+    },
+    {
+        "name": "麴義",
+        "position": "袁紹將",
+        "occurrences": 1
+    },
+    {
+        "name": "南单于",
+        "position": "匈奴单于",
+        "occurrences": 0
+    },
+    {
+        "name": "呼厨泉",
+        "position": "匈奴单于",
+        "occurrences": 0
+    }
+]

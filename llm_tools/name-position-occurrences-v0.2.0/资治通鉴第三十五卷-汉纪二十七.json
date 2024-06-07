@@ -1,0 +1,272 @@
+[
+    {
+        "name": "孝哀皇帝",
+        "position": "皇帝",
+        "occurrences": 2
+    },
+    {
+        "name": "傅晏",
+        "position": "大司马、卫将军",
+        "occurrences": 3
+    },
+    {
+        "name": "丁明",
+        "position": "大司马、票骑将军",
+        "occurrences": 2
+    },
+    {
+        "name": "丞相嘉",
+        "position": "丞相",
+        "occurrences": 1
+    },
+    {
+        "name": "董贤",
+        "position": "大司马、卫将军",
+        "occurrences": 0
+    },
+    {
+        "name": "孔光",
+        "position": "光禄大夫",
+        "occurrences": 13
+    },
+    {
+        "name": "王莽",
+        "position": "新都侯、大司马、太傅、安汉公",
+        "occurrences": 14
+    },
+    {
+        "name": "何武",
+        "position": "御史大夫、前将军",
+        "occurrences": 7
+    },
+    {
+        "name": "彭宣",
+        "position": "御史大夫、大司空",
+        "occurrences": 7
+    },
+    {
+        "name": "师丹",
+        "position": "前将军",
+        "occurrences": 0
+    },
+    {
+        "name": "傅喜",
+        "position": "高武侯",
+        "occurrences": 3
+    },
+    {
+        "name": "孔乡侯",
+        "position": "侯",
+        "occurrences": 0
+    },
+    {
+        "name": "汝昌侯",
+        "position": "侯",
+        "occurrences": 2
+    },
+    {
+        "name": "阳新侯",
+        "position": "侯",
+        "occurrences": 0
+    },
+    {
+        "name": "息夫躬",
+        "position": "官员",
+        "occurrences": 6
+    },
+    {
+        "name": "孙宠",
+        "position": "官员",
+        "occurrences": 0
+    },
+    {
+        "name": "王嘉",
+        "position": "丞相",
+        "occurrences": 6
+    },
+    {
+        "name": "杜鄴",
+        "position": "前凉州刺史",
+        "occurrences": 1
+    },
+    {
+        "name": "梁相",
+        "position": "廷尉",
+        "occurrences": 4
+    },
+    {
+        "name": "鞫譚",
+        "position": "尚书令",
+        "occurrences": 1
+    },
+    {
+        "name": "宗伯鳳",
+        "position": "僕射",
+        "occurrences": 1
+    },
+    {
+        "name": "鞫",
+        "position": "姓",
+        "occurrences": 3
+    },
+    {
+        "name": "宗伯",
+        "position": "姓",
+        "occurrences": 3
+    },
+    {
+        "name": "董贤父",
+        "position": "卫尉",
+        "occurrences": 0
+    },
+    {
+        "name": "董贤弟",
+        "position": "駙馬都尉",
+        "occurrences": 0
+    },
+    {
+        "name": "孔光兄子",
+        "position": "諫大夫、常侍",
+        "occurrences": 0
+    },
+    {
+        "name": "王閎",
+        "position": "中常侍",
+        "occurrences": 1
+    },
+    {
+        "name": "蕭咸",
+        "position": "中郎将",
+        "occurrences": 1
+    },
+    {
+        "name": "王莽",
+        "position": "大司馬、領尚書事",
+        "occurrences": 14
+    },
+    {
+        "name": "王舜",
+        "position": "安陽侯、车骑将军",
+        "occurrences": 3
+    },
+    {
+        "name": "左咸",
+        "position": "大鴻臚",
+        "occurrences": 1
+    },
+    {
+        "name": "傅太后",
+        "position": "定陶共王太后",
+        "occurrences": 5
+    },
+    {
+        "name": "丁太后",
+        "position": "丁姬",
+        "occurrences": 1
+    },
+    {
+        "name": "董宏",
+        "position": "高昌侯",
+        "occurrences": 1
+    },
+    {
+        "name": "何武",
+        "position": "御史大夫",
+        "occurrences": 7
+    },
+    {
+        "name": "公孫祿",
+        "position": "左将军",
+        "occurrences": 3
+    },
+    {
+        "name": "甄豐",
+        "position": "少傅",
+        "occurrences": 5
+    },
+    {
+        "name": "甄邯",
+        "position": "侍中、奉车都尉",
+        "occurrences": 6
+    },
+    {
+        "name": "孫建",
+        "position": "左将军",
+        "occurrences": 2
+    },
+    {
+        "name": "劉秀",
+        "position": "典文章",
+        "occurrences": 1
+    },
+    {
+        "name": "孫建",
+        "position": "爪牙",
+        "occurrences": 2
+    },
+    {
+        "name": "甄豐子",
+        "position": "甄尋",
+        "occurrences": 0
+    },
+    {
+        "name": "甄豐季子",
+        "position": "甄棻",
+        "occurrences": 0
+    },
+    {
+        "name": "崔發",
+        "position": "官员",
+        "occurrences": 1
+    },
+    {
+        "name": "陳崇",
+        "position": "官员",
+        "occurrences": 2
+    },
+    {
+        "name": "董賢父",
+        "position": "光禄大夫",
+        "occurrences": 2
+    },
+    {
+        "name": "董賢弟",
+        "position": "駙馬都尉",
+        "occurrences": 0
+    },
+    {
+        "name": "孔光",
+        "position": "御史大夫",
+        "occurrences": 13
+    },
+    {
+        "name": "王崇",
+        "position": "大司空",
+        "occurrences": 2
+    },
+    {
+        "name": "馬宮",
+        "position": "右将军",
+        "occurrences": 2
+    },
+    {
+        "name": "甄豐",
+        "position": "光禄勋",
+        "occurrences": 5
+    },
+    {
+        "name": "龔勝",
+        "position": "光禄大夫",
+        "occurrences": 1
+    },
+    {
+        "name": "邴漢",
+        "position": "太中大夫",
+        "occurrences": 1
+    },
+    {
+        "name": "梅福",
+        "position": "官员",
+        "occurrences": 1
+    }
+]

@@ -1,3 +1,4 @@
+import concurrent
 import json
 import os
 from collections import defaultdict
@@ -53,11 +54,31 @@ def count_name_position_by_full_content(content: dict):
 
 
 def count_name_position_by_paragraph(content: dict):
+    def process_segment(segment, file_name):
+        llm_content = COUNT_NAMES_PROMPT.format(file_name=file_name, content=segment)
+
+        result = call_gpt_static(
+            query=[{"role": "user", "content": llm_content}],
+            model='gpt-4o', temperature=0.5)["content"]
+
+        bracket_index = result.find('[')
+        bracket_last = result.rfind(']')
+        result = result[bracket_index:bracket_last + 1]
+
+        logger.info(file_name + "*OUTPUT*: " + result)
+
+        result_content_json = json.loads(result)
+
+        for entry in result_content_json:
+            names = [entry.get(f'name_{i}') for i in range(1, 4) if entry.get(f'name_{i}')]
+            entry['occurrences'] = sum(segment.count(name) for name in names)
+
+        return result_content_json
+
     for key, value in content.items():
         file_name = key
         content_dict = value
 
-        # 按照每三段进行拼接
         segments = []
         current_segment = ""
         segment_counter = 0
@@ -69,39 +90,17 @@ def count_name_position_by_paragraph(content: dict):
                 segments.append(current_segment)
                 current_segment = ""
 
-        # 如果还有剩余的段落
         if current_segment:
             segments.append(current_segment)
 
         final_result_content_json = []
 
-        # 处理每个段落
-        for segment in segments:
-            # 生成用于调用GPT模型的内容
-            llm_content = COUNT_NAMES_PROMPT.format(file_name=file_name, content=segment)
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            futures = [executor.submit(process_segment, segment, file_name) for segment in segments]
+            for future in concurrent.futures.as_completed(futures):
+                final_result_content_json.extend(future.result())
 
-            result = call_gpt_static(
-                query=[{"role": "user", "content": llm_content}],
-                model='deepseek-chat', temperature=0.5)["content"]
-
-            # 提取JSON内容并转换格式
-            bracket_index = result.find('[')
-            bracket_last = result.rfind(']')
-            result = result[bracket_index:bracket_last + 1]
-
-            logger.info(file_name + "*OUTPUT*: " + result)
-
-            result_content_json = json.loads(result)
-
-            # 遍历result_content_json并统计每个名字在segment中出现的次数
-            for entry in result_content_json:
-                names = [entry.get(f'name_{i}') for i in range(1, 4) if entry.get(f'name_{i}')]
-                entry['occurrences'] = sum(segment.count(name) for name in names)
-
-            final_result_content_json.extend(result_content_json)
-
-        # 将最终的result_content_json写入一个文件
-        with open(f"name-position-occurrences-v0.2.2/{file_name}.json", "w", encoding="utf-8") as f:
+        with open(f"name-position-occurrences-v0.2-汉书/{file_name}.json", "w", encoding="utf-8") as f:
             json.dump(final_result_content_json, f, ensure_ascii=False, indent=4)
 
         logger.info(f"Saved {file_name}.json")
@@ -222,10 +221,10 @@ def json_to_excel(json_file_path):
 
 def main():
     # 如果原始没有没有被处理，则使用下面的代码
-    # with open("zztj_content_divided_by_paragraph.json", "r", encoding="utf-8") as f:
-    #     content = json.load(f)
-    #
-    # count_name_position_by_paragraph(content)
+    with open("/Users/tuozhou/Desktop/My_PhD/Quantitative_History/zztj/llm_tools/hanshu_content_divided_by_paragraph/hanshu_content_divided_by_paragraph_zhuan.json", "r", encoding="utf-8") as f:
+        content = json.load(f)
+
+    count_name_position_by_paragraph(content)
 
     # 如果原始数据已经被处理过，则使用下面的代码
     # folder_path = "name-position-occurrences-v0.2.1"
@@ -236,7 +235,7 @@ def main():
     # merge_all_summaries(folder_path, final_summary_filename)
 
     # 使用下面的代码读取最终的summary文件，并到处为excel文件
-    json_to_excel("final_name_summary.json")
+    # json_to_excel("final_name_summary.json")
 
 
 
